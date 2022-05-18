@@ -71,3 +71,15 @@ p {
     padding-top: 100px;
     padding-bottom: 0;  
 }
+
+#section .content-wrap,
+#section-1 .content-wrap {
+    padding: 0 1.5em;  
+}
+
+/* Section 1 */
+#section-1 {
+    background: #f1ffe7;
+    color: #1a1b41;
+    padding-bottom: 2em;
+  }
