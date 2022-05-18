@@ -83,3 +83,8 @@ p {
     color: #1a1b41;
     padding-bottom: 2em;
   }
+
+  /* Section 2 */
+  #section-2 {
+    padding: 2em 1em 1em;
+  }
