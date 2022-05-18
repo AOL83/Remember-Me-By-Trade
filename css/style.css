@@ -44,5 +44,6 @@ p {
 .btn:hover {
     background: #f1ffe7;
     color: #1a1b41;
-    transition: 1ms;
+    transform: scale(1.4);
+	transition: 0.5s ease-in-out; 
 }
