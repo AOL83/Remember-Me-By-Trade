@@ -88,3 +88,10 @@ p {
   #section-2 {
     padding: 2em 1em 1em;
   }
+
+  #section-2 ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
