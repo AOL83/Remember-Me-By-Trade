@@ -28,18 +28,21 @@ p {
 
 .btn {
     display: inline-block;
-    background: #1a1b41;
-    color: #f1ffe7;
-    text-decoration: none;
-    padding: 1em 2em;
-    border: 1px solid #c2e7da;
+	text-decoration: none;
+	color: #f1ffe7;
+	font-family: 'Playfair Display', sans-serif;
+	text-transform: none;
+	font-weight: bold;
+	background: #1a1b41;
+	padding: 1em 2em;
+	border: 1px solid #c2e7da;
     margin: .5em 0;
+	letter-spacing: normal;
 }
 
 /* maybe change color */
 .btn:hover {
     background: #f1ffe7;
     color: #1a1b41;
+    transition: 1ms;
 }
-
-/* Hero Section */
