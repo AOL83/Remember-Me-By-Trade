@@ -35,3 +35,11 @@ p {
     border: 1px solid #c2e7da;
     margin: .5em 0;
 }
+
+/* maybe change color */
+.btn:hover {
+    background: #f1ffe7;
+    color: #1a1b41;
+}
+
+/* Hero Section */
