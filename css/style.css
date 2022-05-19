@@ -96,22 +96,22 @@ header .content-wrap {
 }
 
 /* Section 2 */
-#section-2 {
+#section-services {
     padding: 2em 1em 1em;
     background: #4245b9;
 }
 
-#section-2 ul {
+#section-services ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-#section-2 img {
+#section-services img {
     border-radius: 1em;
 }
 
-#section-2 li {
+#section-services li {
     margin-bottom: 1em;
     background: white;
     color: #1a1b41;
@@ -122,21 +122,21 @@ header .content-wrap {
     padding: 1.5em;
 }
 
-/* Section 3 */
-#section-3 {
+/* Needs section */
+#section-needs {
     background: white;
     color: #1a1b41;
     padding: 2em;
 }
 
 /* Section 4 */
-#section-4 .box {
+#section-contacts .box {
     padding: 2em;
     color: rgb(255, 255, 255);
 }
 
 
-#section-4 .box:first-child {
+#section-contacts .box:first-child {
     background: #5db437;
 }
 
