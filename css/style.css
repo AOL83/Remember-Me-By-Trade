@@ -45,12 +45,12 @@ p {
     margin: .5em 0;
 }
 
-/* maybe change color */
+
 .btn:hover {
     background: #5db437;
     color: white;
     transform: scale(1.1);
-    transition: 0.4s ease-in-out;
+    transition: 0.1s ease-in-out;
 }
 
 #map-iframe {
@@ -184,7 +184,7 @@ header .content-wrap {
     background: #0078a0;
     color: white;
     border-radius: 26%;
-    transition: 0.4s ease-in-out;
+    transition: 0.1s ease-in-out;
 }
 
 /* Media Queries */
@@ -208,7 +208,7 @@ header .content-wrap {
     }
 
     .content-wrap,
-    #section-2 ul {
+    #section-services ul {
      grid-column: 2/4;
     }
 
@@ -216,12 +216,12 @@ header .content-wrap {
      grid-column: span 2;
     }
 
-    #section-2 ul {
+    #section-services ul {
      display: flex;
      justify-content: space-around;
     }
 
-    #section-2 li {
+    #section-services li {
      width: 31%;
     }
 }
