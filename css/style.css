@@ -67,7 +67,7 @@ p {
 
 
 .btn:hover {
-    background: #5db437;
+    background: #0592ef;
     color: white;
     transform: scale(1.1);
     transition: 0.1s ease-in-out;
@@ -165,7 +165,7 @@ header .content-wrap {
 
 
 #section-contacts .box:first-child {
-    background: #5db437;
+    background: #0fbf59;
 }
 
 .box {
@@ -174,7 +174,7 @@ header .content-wrap {
 
 /* Footer */
 #main-footer {
-    background: #5db437;
+    background: #0fbf59;
     width: 100%;
     height: 100%;
     bottom: 0;
