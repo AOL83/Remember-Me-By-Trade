@@ -12,11 +12,31 @@ body {
     text-align: center;
 }
 
-.card {
+.card1 {
     padding: 0.5em;
 }
 
-.card img {
+.card1 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.card2 {
+    padding: 0.5em;
+}
+
+.card2 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.card3 {
+    padding: 0.5em;
+}
+
+.card3 img {
     display: block;
     width: 100%;
     height: auto;
@@ -118,7 +138,15 @@ header .content-wrap {
     border-radius: 1em;
 }
 
-.card-containe {
+.card1-content {
+    padding: 1.5em;
+}
+
+.card2-content {
+    padding: 1.5em;
+}
+
+.card2-content {
     padding: 1.5em;
 }
 
