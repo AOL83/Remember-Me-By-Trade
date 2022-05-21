@@ -1,6 +1,6 @@
 # Remember Me By Trade IT & Office Support Solutions Agency
 This website was styled for an IT & Office support solutions agency, Based in London England. The aim of this is to give as much information about the site owner as possible - Remember Me By Trade, their experience and the services the company provides. The website is also designed to showcase company location. It is also aimed at any cpmpany who is looking for a IT specialist to provide support services for a company. Users of the site will be able to gain services, about us & contact information as well as are social media links to get intouch.
 
-From the perspective site owner, the aim of this website is to generate customer interaction which will generate revenue by providing information about services, showcasing skills through the company's experience i the field and encouraging potential clients to get in touch.
+From the perspective of the site owner, the aim of this website is to generate customer interaction which will generate revenue by providing information about services, showcasing skills through the company's experience in the field and encouraging potential clients to get in touch.
 
 ![website pic](https://user-images.githubusercontent.com/102227751/169651473-86e8f56d-7291-489f-90ca-cc6b87df3fde.png)
