@@ -5,13 +5,14 @@ html {
 
 * {
     box-sizing: border-box;
+    border-radius: 5px 5px 0 0;
 }
 
 body {
     margin: 0;
     font-family: 'Playfair Display', sans-serif;
-    color: white;
-    background: rgb(255, 255, 255);
+    color: rgb(1, 1, 1);
+    background: transparent;
     font-size: 1.1em;
     line-height: 1.5;
     text-align: center;
@@ -23,12 +24,13 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #303231e2;
+    background-color:  #303231c8;
     color: rgb(255, 255, 255);
+    padding: 1em
 }
 
 .brand-title {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     margin: .5rem;
 }
 
@@ -249,6 +251,7 @@ header .content-wrap {
 /* Footer */
 #main-footer {
     background: #303231e2;
+    color: #fff;
     width: 100%;
     height: 100%;
     bottom: 0;
@@ -290,7 +293,7 @@ header .content-wrap {
 /* Contact form */
 
 .container-b {
-    max-width: 1170px;
+    max-width: 1700px;
     margin-left: 0;
     margin-right: 0;
     padding: 1em;
@@ -319,7 +322,9 @@ header .content-wrap {
 }
 
 .company-info {
-    background: #c9e6ff;
+    background: #4244b9;
+    color: #fff;
+    border-radius: 5px 5px 0 0;
 }
 
 .company-info h3,
@@ -329,7 +334,8 @@ header .content-wrap {
 }
 
 .contact {
-    background: #f9feff;
+    background: #4244b96f;
+    border-radius: 0 0 5px 5px;
 }
 
 /* form styles */
@@ -361,9 +367,12 @@ header .content-wrap {
 }
 
 .contact form button {
-    background: #c9e6ff;
+    color: #fff;
+    font-size: 20px;
+    background: #4244b9;
     border: 0;
     text-transform: uppercase;
+    border-radius: 10px;
 }
 
 .contact form button:hover,
@@ -373,7 +382,38 @@ header .content-wrap {
     outline: 0;
     transition: background-color 1s ease-in;
 }
+/* ------------------------------------------ */
 
+/* ---thank you page-------- */
+
+#text-container {
+    max-width: 1700px;
+    height: 750px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1em;
+    background: url(https://images.pexels.com/photos/3153198/pexels-photo-3153198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-container {
+    background: #000000c9;
+    color: #fff;
+    border-radius: 5px 5px 5px 5px;
+    width: inherit;
+}
+
+.text-container span {
+    color: #4244b9;
+}
+
+
+.text-container h1, h2 {
+    padding: 10px;
+    font-size: 2.1em;
+}
 
 /* Media Queries */
 @media(min-width: 700px) {
@@ -421,7 +461,7 @@ header .content-wrap {
     }
 
     .navbar-link {
-        /* display: none; */
+        display: none;
         width: 100%;
     }
 
@@ -445,5 +485,22 @@ header .content-wrap {
 
     .navbar-link.active {
         display: flex;
+    }
+}
+
+/* contact form responsiveness */
+
+@media(min-width:700px){
+  .wrapper{
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+    }
+
+    .wrapper > * {
+        padding: 2em;
+    }
+
+    .company-info h3, .company-info ul, .brand-b {
+        text-align: left;
     }
 }
