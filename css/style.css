@@ -466,7 +466,7 @@ header .content-wrap {
     }
 
     .navbar-link {
-        display: none;
+        /* display: none; */
         width: 100%;
     }
 
