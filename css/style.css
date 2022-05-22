@@ -77,6 +77,7 @@ body {
 
 /* ----------------------------- */
 
+/* Services Section */
 
 .card1 {
     padding: 0.5em;
@@ -107,6 +108,8 @@ body {
     width: 100%;
     height: auto;
 }
+
+/* ----------------------------- */
 
 h1,
 h2,
@@ -145,6 +148,7 @@ p {
     width: 100%;
     min-height: 25em;
     display: block;
+    padding: 5px 0 5px 0;
 }
 
 /* ----------------- Hero Section ----------------- */
