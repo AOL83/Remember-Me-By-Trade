@@ -5,7 +5,7 @@ html {
 
 * {
     box-sizing: border-box;
-    /* border-radius: 5px 5px 0 0; */
+
 }
 
 body {
@@ -378,7 +378,8 @@ header .content-wrap {
 .contact form input,
 .contact form textarea {
     width: 100%;
-    padding: 1em;
+    height: initial;
+    padding: 0.5em;
     border: 1px solid;
 }
 
