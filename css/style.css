@@ -18,6 +18,19 @@ body {
     padding: inherit;
 }
 
+h1,
+h2,
+h3 {
+    margin: 0;
+    padding: 1em 0;
+}
+
+p {
+    margin: 0;
+    padding: 1em 0;
+}
+
+
 /* navigation bar */
 .navbar {
     overflow: hidden;
@@ -27,14 +40,20 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color:  #303231ba;
+    background-color:  #303231ec;
     color: rgb(248, 248, 248);
-    /* padding: 1em */
+    padding: 1em;
 }
 
 .brand-title {
     font-size: 1.7rem;
     margin: .5rem;
+}
+
+.navbar a {
+    list-style: none;
+    color: rgb(248, 248, 248);
+    list-style: none;
 }
 
 .navbar-link ul {
@@ -114,17 +133,6 @@ body {
 
 /* ----------------------------- */
 
-h1,
-h2,
-h3 {
-    margin: 0;
-    padding: 1em 0;
-}
-
-p {
-    margin: 0;
-    padding: 1em 0;
-}
 
 .btn {
     display: inline-block;
@@ -147,19 +155,13 @@ p {
     transition: 0.1s ease-in-out;
 }
 
-#map-iframe {
-    width: 100%;
-    min-height: 25em;
-    display: block;
-    padding: 5px 0 5px 0;
-}
 
 /* ----------------- Hero Section ----------------- */
 header {
     min-height: 320px;
     color: rgb(248, 248, 248);
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.788), rgba(0, 0, 0, 0.6)), url('https://images.pexels.com/photos/267507/pexels-photo-267507.jpeg?cs=srgb&dl=pexels-pixabay-267507.jpg&fm=jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.903), rgba(0, 0, 0, 0.6)), url('https://images.pexels.com/photos/267507/pexels-photo-267507.jpeg?cs=srgb&dl=pexels-pixabay-267507.jpg&fm=jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -259,8 +261,9 @@ header .content-wrap {
 
 #map-iframe {
     width: 100%;
-    height: 450px;
-    border-style: none;
+    min-height: 25em;
+    display: block;
+    padding: 5px 0 5px 0;
 }
 
 /* --------------------------- */
@@ -309,13 +312,14 @@ header .content-wrap {
 
 /* ------------------------------- */
 
-/* Contact html page */
+/* Contact page */
 
 .container-b {
     max-width: 1700px;
     margin-left: 0;
     margin-right: 0;
     padding: 1em;
+    margin-top: 3.0em;
     color: black;
 }
 
