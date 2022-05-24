@@ -4,7 +4,7 @@ This website was styled for an IT & Office support solutions agency, Based in Lo
 
 From the perspective of the site owner, the aim of this website is to generate customer interaction which will generate revenue by providing information about services, showcasing skills through the company's experience in the field and encouraging potential clients to get in touch.
 
-![Responsive pic!](./images/website-pic.png)
+![ Am I Responsive screeshot!](images/website-pic.png)
 
 Link to deployed site:
 
@@ -38,9 +38,12 @@ The site will consist of a Home landing page with navigationbar and five section
 <summary>Desktop Wireframes</summary>
 <br>
 
-![Wireframes](/workspace/Remember-Me-By-Trade/assets /wireframes/RMBT-DESKTOP.png)
-![Wireframes](assets/wireframes/RMBT-Mobile.png)
+![Wireframes](assets/wireframes/RMBT-DESKTOP.png)
+![Wireframes](assets/wireframes/RMBT-TABLET.png)
+
 </details>
+
+<br>
 
 <details>
 <summary>Mobile Wireframes</summary>
