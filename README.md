@@ -38,8 +38,8 @@ The site will consist of a Home landing page with navigationbar and five section
 <summary>Desktop Wireframes</summary>
 <br>
 
-![Wireframes](assets/wireframes/RMBT-DESKTOP.png)
-![Wireframes](assets/wireframes/RMBT-TABLET.png)
+![Wireframes](assets /wireframes/RMBT-DESKTOP.png)
+![Wireframes](assets /wireframes/RMBT-Mobile.png)
 
 </details>
 
@@ -47,7 +47,7 @@ The site will consist of a Home landing page with navigationbar and five section
 <summary>Mobile Wireframes</summary>
 <br> 
 
-![wireframes](assets/wireframes/RMBT-Mobile.png)
+![wireframes](assets /wireframes/RMBT-Mobile.png)
 
 </details>
 
