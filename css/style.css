@@ -21,10 +21,14 @@ body {
 
 /* navigation bar */
 .navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color:  #303231c8;
+    background-color:  #303231f8;
     color: rgb(255, 255, 255);
     /* padding: 1em */
 }
@@ -416,6 +420,7 @@ header .content-wrap {
 }
 
 .text-container {
+    margin-top: 3.0em;
     background: #000000c9;
     color: #fff;
     border-radius: 5px 5px 5px 5px;
