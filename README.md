@@ -38,22 +38,17 @@ The site will consist of a Home landing page with navigationbar and five section
 <summary>Desktop Wireframes</summary>
 <br>
 
-![Wireframes](assets/wireframes/home.png)
-![Wireframes](assets/wireframes/gallery.png)
-![Wireframes](assets/wireframes/pricelist.png)
-![Wireframes](assets/wireframes/contact.png)
-![Wireframes](assets/wireframes/thank-you-page.png)
+![Wireframes](assets/wireframes/RMBT-DESKTOP.png)
+![Wireframes](assets/wireframes/RMBT-TABLET.png)
+
 </details>
 
 <details>
 <summary>Mobile Wireframes</summary>
 <br> 
 
-![wireframes](assets/wireframes/mobile-home.pn)
-![wireframes](assets/wireframes/mobile-gallery.pn)
-![wireframes](assets/wireframes/mobile-pricelist.pn)
-![wireframes](assets/wireframes/mobile-contact.png)
-![wireframes](assets/wireframes/mobile-thank-you.pn)
+![wireframes](assets/wireframes/RMBT-Mobile.png)
+
 </details>
 
 
