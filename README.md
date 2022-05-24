@@ -40,15 +40,13 @@ The site will consist of a Home landing page with navigationbar and five section
 
 ![Wireframes](/workspace/Remember-Me-By-Trade/assets /wireframes/RMBT-DESKTOP.png)
 ![Wireframes](assets/wireframes/RMBT-Mobile.png)
-
 </details>
 
 <details>
 <summary>Mobile Wireframes</summary>
 <br> 
 
-![wireframes](./assets/wireframes/RMBT-Mobile.png)
-
+![wireframes](assets/wireframes/RMBT-Mobile.png)
 </details>
 
 
