@@ -85,53 +85,38 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 ![Navigation Menu](assets/images/navbar.png)
 
 * Footer 
-    - Social Media Links to Facebook and Instagram to allow the user to stay connected to the make-up artist and see regular posts.
-    - Telephone number and email address in footer on each page.  This means that the user does not have to navigate to a different page to have access to this information if they decide they want to email or telephone. 
+    - Social Media Links to Facebook and Instagram and twitter to allow the user to stay connected to the company and see regular posts.
+    - Telephone number and email address in footer on every page.  This means that the user does not have to navigate to a different page to have access to this information if they decide they want to email or telephone. 
 
 ![Footer](assets/images/footer.png)   
   
 
 * Home Page Features
-    - The Hero-image is high quality photograph of former client of Pip Southgate on her weddig day.  The image is quite striking with the contrast between the bright orange hair of the client and the natural tones in her headress. This image was chosen as it showcases the natural style Pip Southgate has with her makeup application.
-    - There is a text overlay box which briefly summarises the areas covered by the MUA, but leaves out enough information to entice the site user to make an enquiry.
-    - There is also a contact button within the text overlay box which links directly to the contact page.  This acts as a call to action to encourage the site user to submit their details to arrange a callback.  The contact button has a hover effect applied so the button grows when it is hovered over to draw attention to itself.  The same effect is used on all buttons across the site.
+    -The hero-image on landing page is quite eye catching with the contrast between the bright colours natural tones become  very striking. but leaves out enough information to entice the site user to make an enquiry.
+    - There is also a contact button within the navbar which links directly to the contact form page.  This acts as a call to action to encourage the site user to submit their details to arrange a callback.  The contact button has a hover effect applied so the button background changechanges when it is hovered over to draw attention to itself. The same effect is used on all buttons across the site.
 
 ![Hero Image and Overlay Text](assets/images/hero-image.png)   
 
 
 * Home Page Features Continued...
-    - The home page also contains two information boxes and two further images.  The first information box provides the site user with a brief introduction to Pip Southgate, her training, experience, style and ethos.  There is also a link to encourage the user to visit the gallery.  
-    - The second information box provides key information about the services provided - what to expect at a Makeup Trial, what to expect on wedding day and other services available.  There is a link here to view the pricelist of the services.
-    - The information boxes are styled with a border and box shadow matching the color of the text to allow the information boxes to stand out.
-    - As a decorative feature for this section, there are two images of the Makeup Artist applying makeup to her clients.  These are displayed on larger screens, but are then hidden on smaller screens, such as mobile phones. 
-
-
-
-* Gallery Features
-    - A masonry style gallery has been used to show images of the Makeup Artists former clients.  A hover effect has been applied to the images so they scale up once hovered over. 
-
-
-![Screenshot of Gallery and zoom effect](assets/images/photo-gallery.png)
-
-
-* Price List Features
-    - Full breakdown of services
-    - Clickable button to link to contact page - zoom effect when hovered over to grab attention of user.
+    - The home page also consists of one landing page with an image a welcome message in the head, beneath that is an infomaiton section with a small brief then another section containing three further images and infomation about services. Then the first information box provides the site user with introduction about RMBT IT & Office suppsupport Solutions Agency, their training, experience, and work ethos. There is also a links at the bottom of the page that encourage the user to visit us on our socila networks.  
+    - The second information box provides brief contact information.
+    - The information boxes are styled with a darker colour so that text is aloud to stand out.
+    - As a decorative feature for this section. These are displayed next to eath other on larger screens, but stacked on top of each other when on smaller screens, such as mobile phones. 
 
 
 * Contact Form
-    - Input fields to submit name, email address, and venue of event.
-    - Date and time pickers to choose date/time of event.
-    - Number picker - to chose the number of people requiring makeup.
-    - Text area to add more information or a message for the MUA.
-    - Submit button - zoom effect.  This button currently links to a thank-you page where a thank you message is displayed to let the site user know their information has been submitted. 
-    - Each field has a ```required``` attribute applied to ensure users input all fields before submiting the form
+    - Input fields to submit name, company name, phone, and email address.
+    makeup.
+    - Text area to add information for a message to RBMT.
+    - Submit button - With background effect. This button currently links to a thank-you page where a thank you message will be displayed to let the user know their information has been submitted and we will be in contact in due course. 
+    - Each field has a ```required``` attribute applied to ensure users input all fields before submiting, the contact form is responsive on desktop devices the contact content is shifted to the left of the form and on smaller devices the contact content is stacked. 
 
 ![Contact Form Screenshot](assets/images/form.png)
 
 
 * Thank-you Page
-    - The thank-you page will appear only when the contact form has been completed and submitted.  It will display a short message to thank users for getting in contact and confirming the MUA will make contact shortly.
+    -Thank-you page will only appear when the contact form has been fully completed and submitted.  It will display a short message to thank the users for getting in contact and confirming the RMBT will be in contact in due course.
 
 ![Thank You Page Screenshot](assets/images/thank-you-screenshot.png)
 <br/>
