@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
 /* Core Styles */
 html {
     scroll-behavior: smooth;
@@ -10,10 +11,8 @@ html {
 
 body {
     margin: 0;
-    font-family: 'Playfair Display', sans-serif;
-    color: rgb(1, 1, 1);
-    background: transparent;
-    font-size: 1.1em;
+    font-family: 'Paytone One', sans-serif;
+    font-size: 1.2em;
     line-height: 1.5;
     text-align: center;
     padding: inherit;
@@ -28,8 +27,8 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color:  #303231f8;
-    color: rgb(255, 255, 255);
+    background-color:  #303231ba;
+    color: rgb(248, 248, 248);
     /* padding: 1em */
 }
 
@@ -50,7 +49,7 @@ body {
 
 .navbar-link li a {
     text-decoration: none;
-    color: white;
+    color: rgb(248, 248, 248);
     padding: 1rem;
     display: block;
 }
@@ -75,7 +74,7 @@ body {
 .toggle-button .bar {
     height: 3px;
     width: 100%;
-    background-color: white;
+    background-color: rgb(248, 248, 248);
     border-radius: 10px;
 }
 
@@ -130,7 +129,7 @@ p {
 .btn {
     display: inline-block;
     text-decoration: none;
-    color: white;
+    color: rgb(248, 248, 248);
     font-family: 'Playfair Display', sans-serif;
     text-transform: none;
     font-weight: bold;
@@ -143,7 +142,7 @@ p {
 
 .btn:hover {
     background: #0592ef;
-    color: white;
+    color: rgb(248, 248, 248);
     transform: scale(1.1);
     transition: 0.1s ease-in-out;
 }
@@ -158,7 +157,7 @@ p {
 /* ----------------- Hero Section ----------------- */
 header {
     min-height: 320px;
-    color: white;
+    color: rgb(248, 248, 248);
     text-align: center;
     background: linear-gradient(rgba(0, 0, 0, 0.788), rgba(0, 0, 0, 0.6)), url('https://images.pexels.com/photos/267507/pexels-photo-267507.jpeg?cs=srgb&dl=pexels-pixabay-267507.jpg&fm=jpg');
     background-position: center;
@@ -171,7 +170,7 @@ header {
 }
 
 .hero {
-    background: #ffffff;
+    background: rgb(248, 248, 248);
 }
 
 
@@ -194,7 +193,7 @@ header .content-wrap {
 
 /* Section main */
 #section-main {
-    background: white;
+    background: rgb(248, 248, 248);
     color: #1a1b41;
     padding-bottom: 2em;
 }
@@ -217,7 +216,7 @@ header .content-wrap {
 
 #section-services li {
     margin-bottom: 1em;
-    background: white;
+    background: rgb(248, 248, 248);
     color: #1a1b41;
     border-radius: 1em;
 }
@@ -236,7 +235,7 @@ header .content-wrap {
 
 /* Needs section */
 #section-needs {
-    background: white;
+    background: rgb(248, 248, 248);
     color: #1a1b41;
     padding: 2em;
 }
@@ -244,7 +243,7 @@ header .content-wrap {
 /* Section 4 */
 #section-contacts .box {
     padding: 2em;
-    color: rgb(255, 255, 255);
+    color: rgb(248, 248, 248);
 }
 
 
@@ -269,7 +268,7 @@ header .content-wrap {
 /* Footer */
 #main-footer {
     background: #303231e2;
-    color: #fff;
+    color: rgb(248, 248, 248);
     width: 100%;
     height: 100%;
     padding: 1px;
@@ -296,14 +295,14 @@ header .content-wrap {
 
 .social-networks i {
     font-size: 150%;
-    color: #ffffff;
+    color: rgb(248, 248, 248);
     padding: 12px 20px;
     display: inline-block;
 }
 
 .social-networks i:hover {
     background: #0078a0;
-    color: white;
+    color: rgb(248, 248, 248);
     border-radius: 26%;
     transition: 0.1s ease-in-out;
 }
@@ -343,7 +342,7 @@ header .content-wrap {
 
 .company-info {
     background: #4244b9;
-    color: #fff;
+    color: rgb(248, 248, 248);
     border-radius: 5px 5px 0 0;
 }
 
@@ -388,7 +387,7 @@ header .content-wrap {
 }
 
 .contact form button {
-    color: #1ca4ff;
+    color: rgb(248, 248, 248);
     font-size: 20px;
     background: #4244b9;
     border: 0;
@@ -398,8 +397,8 @@ header .content-wrap {
 
 .contact form button:hover,
 .contact form button:focus {
-    background: #0592ef;
-    color: #fff;
+    background: #1ca4ff;
+    color: rgb(248, 248, 248);
     outline: 0;
     transition: background-color 1s ease-in;
 }
@@ -422,7 +421,7 @@ header .content-wrap {
 .text-container {
     margin-top: 3.0em;
     background: #000000c9;
-    color: #fff;
+    color: rgb(248, 248, 248);
     border-radius: 5px 5px 5px 5px;
     width: inherit;
 }
