@@ -555,35 +555,11 @@ h2 {
 
 /* Navbar media queries */
 
-@media (max-width: 700px) {
+@media screen and (min-width: 800px) {
 
-    /* .navbar-link {
-        display: flex;
-        width: 100%;
-        flex-direction: row;
-    }
-
-    .navbar {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .navbar-link ul {
-        width: 100%;
-        flex-direction: column;
-    }
-
-    .navbar-link li {
-        text-align: center;
-    }
-
-    .navbar-link li a {
-        padding: .5rem 1rem;
-    }
-
-    .navbar-link.active {
-        display: flex;
-    } */
+     .nav-toggle-label {
+         display: none;
+     }
 }
 
 /* contact form responsiveness */
