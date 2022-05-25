@@ -29,7 +29,7 @@ h2,
 h3 {
     margin: 0;
     padding: 1em 0;
-    /* text-align: center; */
+    text-align: center;
 }
 
 p {
@@ -127,7 +127,7 @@ nav a {
 }
 
 nav a:hover {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 164, 252);
 }
 
 .nav-toggle:checked~nav {
@@ -137,6 +137,11 @@ nav a:hover {
 .nav-toggle:checked~nav a {
     opacity: 1;
     transition: opacity 250ms ease-in-out 250ms;
+}
+
+.logo {
+    color: #ffffff;
+    font-size: 1.5em;
 }
 
 /* ----------------------------- */
@@ -177,28 +182,6 @@ nav a:hover {
 }
 
 /* ----------------------------- */
-
-/* read more button for internal page link */
-.btn {
-    display: inline-block;
-    text-decoration: none;
-    color: rgb(248, 248, 248);
-    font-family: 'Playfair Display', sans-serif;
-    text-transform: none;
-    font-weight: bold;
-    background: #4244b9;
-    border-radius: 0.5em;
-    padding: 1em 2em;
-    margin: .5em 0;
-}
-
-
-.btn:hover {
-    background: #0592ef;
-    color: rgb(248, 248, 248);
-    transform: scale(1.1);
-    transition: 0.1s ease-in-out;
-}
 
 
 /* ----------------- Hero Section ----------------- */
