@@ -30,13 +30,13 @@
     <!-- Navbar -->
     <section class="section-nav">
         <h1 class="logo">RMBT</h1>
-            <input type="checkbox" class="nav-toggle" id="nav-toggle">
+        <input type="checkbox" class="nav-toggle" id="nav-toggle">
         <nav class="navigation">
             <ul>
-                <li><a href="">Home</a></li>
-                <li><a href="">Services </a></li>
-                <li><a href="">About US</a></li>
-                <li><a href="">Contact</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#section-main">Services </a></li>
+                <li><a href="#section-needs">About US</a></li>
+                <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
         <label for="nav-toggle" class="nav-toggle-label">
@@ -52,7 +52,7 @@
                 support is a must have for employees. We have carefully designed a range of IT support packages to suit
                 your business specific needs. Strategically designed, our three levels of flexible business IT support
                 packages are designed to support all types and sizes of business.</p>
-            <a href="#main" class="btn" aria-label="click here to move to main section to find out more">Read More</a>
+            <!-- <a href="#main" class="btn" aria-label="click here to move to main section to find out more">Read More</a> -->
         </div>
     </header>
 
@@ -75,7 +75,7 @@
         <!-- Services section -->
         <section id="section-services" class="grid">
             <ul>
-                <li>
+                <li id="cards">
                     <div class="card1">
                         <img src="assets/images/call-center.webp"
                             alt="People working in an office at a call center help desk.">
@@ -153,24 +153,25 @@
         </div>
     </main>
 
-    <!-- Footer -->
-    <footer id="main-footer" class="grid">
-        <div class="contacts-info">
+    <footer>
+        <!--CONTACT INFO-->
+        <div class="contact-info">
             <p><i class="fas fa-mobile-alt"></i> +44 (0) 208-never-going-to-get-it</p>
-            <p><i class="far fa-envelope"></i> RMBT@gmail.test</p>
+            <p><i class="far fa-envelope"></i>RMBT'<gmail class="test"></gmail></p>
         </div>
+        <!--SOCIAL MEDIA LINKS-->
         <ul class="social-networks">
             <li>
-                <a href="https://facebook.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://facebook.com" target="_blank" rel="noopener" 
+                aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook-f"></i></a>
             </li>
             <li>
-                <a href="https://instagram.com" target="_blank" rel="noopener"
-                    aria-label="Check us out on Instagram (opens in a new tab)"><i class="fab fa-instagram"></i></a>
+                <a href="https://instagram.com" target="_blank" rel="noopener" 
+                aria-label="Check us out on Instagram (opens in a new tab)"><i class="fab fa-instagram"></i></a>
             </li>
             <li>
-                <a href="https://twitter.com" target="_blank" rel="noopener"
-                    aria-label="Check us out on Twitter (opens in a new tab)"><i class="fab fa-twitter"></i></a>
+                <a href="https://twitter.com" target="_blank" rel="noopener" 
+                aria-label="Check us out on Twitter (opens in a new tab)"><i class="fab fa-twitter"></i></a>
             </li>
         </ul>
     </footer>
