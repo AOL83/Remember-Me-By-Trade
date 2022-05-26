@@ -404,6 +404,7 @@ footer {
 .company-info ul {
     text-align: center;
     margin: 0 0 1rem 0;
+    letter-spacing: 3px;
 }
 
 .contact {
@@ -509,7 +510,7 @@ h2 {
     }
 
     #section-main .content-text {
-        columns: 2;
+        columns: 1;
         column-gap: 2em;
     }
 
