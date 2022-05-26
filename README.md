@@ -57,9 +57,9 @@ The site will consist of a Home landing page with navigationbar and five section
 ## Design
 ----
 
-The site's owner wanted a modern 2022 style website. They decided on a six color scheme incorporating a pastel tone colour pallete from [ColorSpace](https://mycolor.space/), we checked the colour pallete using [EigthShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dn) So i decided to go with a simple design as thy chose an eight colour palette scheme of a off-whit, a shade of gray (used only on styling the navbar and footer) and these were used in contrast with an light blue for the hover state. A dark blue colour and off-white combination fot the buttons statics state gives the buttons highest rating in compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for text/background.  
+The site's owner wanted a modern 2022 style website. They decided on a six color scheme incorporating a pastel tone colour pallete from [ColorSpace](https://mycolor.space/), we checked the colour pallete using [EigthShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23faf8f6%2C%0D%0A%2300a4fcd9%0D%0A%234244b9%0D%0A%23191641%0D%0A%23536075de&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) So i decided to go with a simple design as thy chose an eight colour palette scheme of a off-whit, a shade of gray (used only on styling the navbar and footer) and these were used in contrast with an light blue for the hover state. A dark blue colour and off-white combination fot the buttons statics state gives the buttons highest rating in compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for text/background.  
 
-![Contrast Grid](assets/images/contrast-grid.pn)
+![Contrast Grid](assets/images/contrast-grid.png)
 
 All the images used on site have been sourced from Pexels https://www.pexels.com/  and are copyright free images so permission was not needed. 
 
@@ -70,22 +70,22 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 
 ### Existing Features
 
-* Logo
-    - Clickable logo which allows the user to easily navigate back to the home page. This is a simple text design incorporating the name of the website.
-
-![Logo](assets/images/logo.pn)
 
 
 * Navigation Menu 
     - This features on all pages of the website. The position and style is consistent across all pages to allow the user to intuitively navigate each section of the mainlanding page and its content as well as intuitively navigate to the other pages of the website like the contact form.  The navigation menu has been styled with html and css only on large screens the nav will display the page links and the logo inline at the top of the page and on small devices the nav will change in to a working hambeurger drop down menue that is still usable without JavaScript when hoverd over links will change colour with a indicator line letting you know that the is usable.
+![Navigation Menu Desktop](assets/images/nav-desktop.png)
 
-![Navigation Menu](assets/images/navbar.pn)
+![Closed Navigation Menu Mobile](assets/images/NAV_mobile-closed.png)
+
+![Open Navigation Menu Mobile](assets/images/NAV-mobile-open.png)
 
 * Footer 
     - Social Media Links to Facebook, Instagram and twitter with active transitions in color allow the user to know the link is active so they can stay connected to the companys activities and see regular posts.
     - Telephone number and email address in footer on every page.  This means that the user does not have to navigate to a different page to have access to this information if they decide they want to email or telephone. 
 
-![Footer](assets/images/footer.pn)   
+![Footer](assets/images/Responcive-footer-A.png)
+![Footer](assets/images/Responcive-footer-B.png)   
   
 
 * Home Page Features

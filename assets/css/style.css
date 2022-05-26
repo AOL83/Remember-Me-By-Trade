@@ -10,6 +10,7 @@ html {
 }
 
 
+
 * {
     box-sizing: border-box;
 
@@ -35,62 +36,6 @@ h3 {
 p {
     margin: 0;
     padding: 1em 0;
-}
-
-
-/* navigation bar styles */
-.section-nav {
-    background: var(--background);
-    text-align: center;
-    position: fixed;
-    z-index: 999;
-    width: 100%;
-}
-
-
-.nav-toggle {
-    position: absolute !important;
-    top: -9999px !important;
-    left: -9999px !important;
-}
-
-/* .nav-toggle:focus ~ .nav-toggle-label {
-    outline: 3px solid rgba(lightblue, .75);
-} */
-
-.nav-toggle-label {
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin-left: 1em;
-    height: 100%;
-    display: flex;
-    align-items: center;
-}
-
-.nav-toggle-label span,
-.nav-toggle-label span::before,
-.nav-toggle-label span::after {
-    display: block;
-    background:  #faf8f6;
-    height: 2px;
-    width: 2em;
-    border-radius: 2px;
-    position: relative;
-}
-
-.nav-toggle-label span::before,
-.nav-toggle-label span::after {
-    content: '';
-    position: absolute;
-}
-
-.nav-toggle-label span::before {
-    bottom: 7px;
-}
-
-.nav-toggle-label span::after {
-    top: 7px;
 }
 
 nav {
@@ -130,6 +75,62 @@ nav a:hover {
     color: rgb(0, 164, 252);
 }
 
+/* --------------------------------- */
+
+
+/* navigation bar styles */
+.section-nav {
+    background: var(--background);
+    text-align: center;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
+
+
+.nav-toggle {
+    position: absolute !important;
+    top: -9999px !important;
+    left: -9999px !important;
+}
+
+
+.nav-toggle-label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 1em;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.nav-toggle-label span,
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    display: block;
+    background: #faf8f6;
+    height: 2px;
+    width: 2em;
+    border-radius: 2px;
+    position: relative;
+}
+
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    content: '';
+    position: absolute;
+}
+
+.nav-toggle-label span::before {
+    bottom: 7px;
+}
+
+.nav-toggle-label span::after {
+    top: 7px;
+}
+
+
 .nav-toggle:checked~nav {
     transform: scale(1, 1);
 }
@@ -148,34 +149,34 @@ nav a:hover {
 
 /* Services Section */
 
-.card1 {
+.card-call-center {
     padding: 0.5em;
     text-align: center;
 }
 
-.card1 img {
+.card-call-center img {
     display: block;
     width: 100%;
     height: auto;
 }
 
-.card2 {
+.card-functional {
     padding: 0.5em;
     text-align: center;
 }
 
-.card2 img {
+.card-functional img {
     display: block;
     width: 100%;
     height: auto;
 }
 
-.card3 {
+.card-non-functional {
     padding: 0.5em;
     text-align: center;
 }
 
-.card3 img {
+.card-non-functional img {
     display: block;
     width: 100%;
     height: auto;
@@ -200,7 +201,7 @@ header {
 }
 
 .hero {
-    background: rgb(250,248,246);
+    background: rgb(3, 3, 2);
 }
 
 
@@ -216,38 +217,38 @@ header .content-wrap {
 }
 
 /* --------------------------------- */
-
-#section-main .content-wrap {
+/* Section main */
+.content-wrap p {
     padding: 0 1.5em;
     text-align: center;
 }
 
-/* Section main */
-#section-main {
-    background: rgb(250,248,246);
+.section-main {
+    background: rgb(250, 248, 246);
     color: #1a1b41;
     padding-bottom: 2em;
 }
+/* ----------------------------------- */
 
 /* Section 2 */
-#section-services {
+.section-services {
     padding: 2em 1em 1em;
     background: #4244b9;
 }
 
-#section-services ul {
+.section-services ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-#section-services img {
+.section-services img {
     border-radius: 1em;
 }
 
-#section-services li {
+.section-services li {
     margin-bottom: 1em;
-    background: rgb(250,248,246);
+    background: rgb(250, 248, 246);
     color: #1a1b41;
     border-radius: 1em;
 }
@@ -256,7 +257,7 @@ header .content-wrap {
     padding: 1.5em;
 }
 
-#content1 p {
+.content1 p {
     text-align: center;
 }
 
@@ -264,7 +265,7 @@ header .content-wrap {
     padding: 1.5em;
 }
 
-#content2 p {
+.content2 p {
     text-align: center;
 }
 
@@ -272,14 +273,14 @@ header .content-wrap {
     padding: 1.5em;
 }
 
-#content3 p {
+.content3 p {
     text-align: center;
 }
 
 
 /* Needs section */
 #section-needs {
-    background: rgb(250,248,246);
+    background: rgb(250, 248, 246);
     color: #1a1b41;
     padding: 2em;
     text-align: center;
@@ -288,7 +289,7 @@ header .content-wrap {
 /* Section 4 */
 #section-contacts .box {
     padding: 2em;
-    color: rgb(250,248,246);
+    color: rgb(250, 248, 246);
 }
 
 
@@ -304,56 +305,54 @@ header .content-wrap {
 
 /* Iframe */
 
-#map-iframe {
+.map-iframe iframe {
     width: 100%;
-    min-height: 25em;
+    height: 25em;
     display: block;
-    /* padding: 5px 0 5px 0; */
 }
 
 /* --------------------------- */
 
 /* Footer */
 footer {
-    /* background: rgba(83, 96, 117, 0.87); */
-	padding: 0;
-	margin: 0;
-	width: 100%;
-	bottom: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    bottom: 0;
 }
 
 .contact-info {
-	margin: auto;
-	text-align: center;
-	letter-spacing: 4px;
-	display: block;
-	padding: 5px;
-    background:  rgba(250,248,246, 0.87);
+    margin: auto;
+    text-align: center;
+    letter-spacing: 4px;
+    display: block;
+    padding: 5px;
+    background: rgba(250, 248, 246, 0.87);
 }
 
 .contact-info p {
-	padding: 5px;
+    padding: 5px;
     color: #1a1b41;
 }
 
 .social-networks {
-	text-align: center;
+    text-align: center;
 }
 
 .social-networks li {
-	display: inline;
+    display: inline;
 }
 
 .social-networks i {
-	font-size: 150%;
-	padding: 20px;
-	color: #2291ff;
+    font-size: 150%;
+    padding: 20px;
+    color: #2291ff;
 }
 
 .social-networks i:hover {
-	font-size: 150%;
-	padding: 20px;
-	color: #faf8f6;
+    font-size: 150%;
+    padding: 20px;
+    color: #faf8f6;
     background: rgb(0, 164, 252);
     border-radius: 50%;
 }
@@ -370,7 +369,7 @@ footer {
     padding: 1em;
     padding-top: 7em;
     color: rgb(29, 28, 26);
-    
+
 }
 
 .company-info ul {
@@ -509,17 +508,17 @@ h2 {
         align-items: inherit;
     }
 
-    #section-main .content-text {
+    .section-main .content-text {
         columns: 1;
         column-gap: 2em;
     }
 
-    #section-main .content-text p {
+    .section-main .content-text p {
         padding-top: 0;
     }
 
     .content-wrap,
-    #section-services ul {
+    .section-services ul {
         grid-column: 2/4;
     }
 
@@ -528,12 +527,12 @@ h2 {
         grid-column: span 2;
     }
 
-    #section-services ul {
+    .section-services ul {
         display: flex;
         justify-content: space-around;
     }
 
-    #section-services li {
+    .section-services li {
         width: 31%;
     }
 }
@@ -555,7 +554,7 @@ h2 {
     }
 
     nav {
-    all: unset;
+        all: unset;
         position: relative;
         text-align: left;
         transition: none;
