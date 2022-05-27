@@ -364,13 +364,17 @@ footer {
 /* Contact page */
 
 .container-b {
-    max-width: 1700px;
+    width: 100vw;
     margin-left: 0;
     margin-right: 0;
     padding: 1em;
     padding-top: 4em;
     color: rgb(29, 28, 26);
-
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .company-info ul {
