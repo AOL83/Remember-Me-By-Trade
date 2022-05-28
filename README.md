@@ -1,6 +1,6 @@
 ![Office pic!](assets/images/RMBT.png)
 # Remember Me By Trade IT & Office Support Solutions Agency
-The position and styles of the navigation bar are consistent across all pages there is a Home, Servies, And About button that allows the user to intuitively navigate the main landing page and its content. There is a contact button that will take the user to a contact form. The navigation bar has been styled with HTML and CSS only. On large screens the nav will display navigation links and the logo inline at the top of the page. And small devices navigation bar changes into a working hamburger drop-down menu. When hovered over links will change colour with an indicator line letting the user know the button is actionable.
+This website is aimed mainly at Companys that have IT issues or need a position permanently or temporarily filled with a skilled member of staff based in London, the South of England. The aim is to give enough information about the site's owner - their experience and the services provided. Users of the site will be able to gain contact information, location and also submit a request for RMBT to contact them back.
 
 From the perspective of the site owner, the aim of this website is to generate customer interaction which will generate revenue by providing information about services, showcasing skills through the company's experience in the field and encouraging potential clients to get in touch.
 
@@ -117,22 +117,15 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 * Thank-you Page
     -Thank-you page will only appear when the contact form has been fully completed and submitted.  It will display a short message to thank the users for getting in contact and confirming the RMBT will be in contact in due course.
 
-![Thank You Page Screenshot](assets/images/thank-you-screenshot.pn)
+![Thank You Page Screenshot](assets/images/thank-you.png)
 <br/>
 
-
-### Features Left to Implement
-
-* ---------1.
-* ----------2. 
-* -----------3.
-* ------------4. 
 
 
 ## Testing
 ----
 
-I have regularly tested all aspects of the site functionality including all links, inputs and responsiveness through Dev Tools in Chrome for the following devices:-
+I have tested all aspects of the site functionality including all links as best as possible, inputs and responsiveness through Dev Tools in Chrome & lighthouse for the following devices. (I would of liked a more extensive and in depth testing scrip but with the little time i had left to submit my testing is as follows):-
 
 * LG G6
 * iPhone 5/SE
@@ -145,25 +138,24 @@ I have regularly tested all aspects of the site functionality including all link
 * Surface Due
 
 
-I have also tested the site physically on the below devices:
+I tested the site physically on the below devices:
 
 * iPhone 13 pro
 * iPhone 11 Pro
 * Mac Book Pro 
 * HP (Laptop)
 
-I have also regularly tested the site using the following browsers:-
+I have also tested the site using the following browsers:-
 
 * Chrome
 * Safari
-* Firefox
 * Edge
 * Brave
 
 
 ### Validator testing 
 
-* CSS file has been run through W3C CSS Validator and no errors have been found.  Two warnings have been found although these related to imported stylesheets which are not checked by the validator.
+* CSS file has been run through W3C CSS Validator and no errors have been found.  One warnings have been found but relates to the way i mad my nav operate which are not checked by the validator.
 * All HTML files have been passed through the W3C HTML Validator and no errors have been found. 
 
 
