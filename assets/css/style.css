@@ -569,7 +569,7 @@ h2 {
 
 /* Navbar media queries */
 
-@media screen and (min-width: 800px) {
+@media (min-width: 800px) {
     .nav-toggle-label {
         display: none;
     }
