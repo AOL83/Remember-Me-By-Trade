@@ -1,6 +1,6 @@
 ![Office pic!](assets/images/RMBT.png)
 # Remember Me By Trade IT & Office Support Solutions Agency
-This website was styled for an IT & Office support solutions agency, Based in London England. The aim of this is to give as much information about the site owner as possible - Remember Me By Trade, their experience and the services the company provides. The website is also designed to showcase company location. It is also aimed at any cpmpany who is looking for a IT specialist to provide support services for a company. Users of the site will be able to gain services, about us & contact information as well as are social media links to get intouch.
+The position and styles of the navigation bar are consistent across all pages there is a Home, Servies, And About button that allows the user to intuitively navigate the main landing page and its content. There is a contact button that will take the user to a contact form. The navigation bar has been styled with HTML and CSS only. On large screens the nav will display navigation links and the logo inline at the top of the page. And small devices navigation bar changes into a working hamburger drop-down menu. When hovered over links will change colour with an indicator line letting the user know the button is actionable.
 
 From the perspective of the site owner, the aim of this website is to generate customer interaction which will generate revenue by providing information about services, showcasing skills through the company's experience in the field and encouraging potential clients to get in touch.
 
@@ -32,7 +32,7 @@ This site's srategy is based on satisfying the below user scenario's:-
 ## Structure
 ----
 
-The site will consist of a Home landing page with navigationbar and five sections,those sections consist of information on skills, service's and work history reputation with a contact form; with a thank you page which will only shows when the contact form has been completed and submitted:-
+The site will consist of a Home landing page with a navigation bar and five sections, those sections consist of information on skills, services, and work history reputation with a contact form; with a thank you page which will only show when the contact form has been completed and submitted:-
 
 <details>
 <summary>Desktop Wireframes</summary>
@@ -57,7 +57,7 @@ The site will consist of a Home landing page with navigationbar and five section
 ## Design
 ----
 
-The site's owner wanted a modern 2022 style website. They decided on a six color scheme incorporating a pastel tone colour pallete from [ColorSpace](https://mycolor.space/), we checked the colour pallete using [EigthShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23faf8f6%2C%0D%0A%2300a4fcd9%0D%0A%234244b9%0D%0A%23191641%0D%0A%23536075de&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) So i decided to go with a simple design as thy chose an eight colour palette scheme of a off-whit, a shade of gray (used only on styling the navbar and footer) and these were used in contrast with an light blue for the hover state. A dark blue colour and off-white combination fot the buttons statics state gives the buttons highest rating in compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for text/background.  
+The site's owner wanted a modern 2022-style website. They decided on a six-color scheme incorporating a pastel tone colour pallet from [ColorSpace](https://mycolor.space/), we checked the colour pallet using [EigthShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23faf8f6%2C%0D%0A%2300a4fcd9%0D%0A%234244b9%0D%0A%23191641%0D%0A%23536075de&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) So I decided to go with a simple design as thy chose an eight colour palette scheme of an off-white, a shade of gray (used only on styling the navbar and footer) and these were used in contrast with a light blue for the hover state. The dark blue colour and off-white combination for the button's statics state gives the buttons the highest rating in compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for text/background.
 
 ![Contrast Grid](assets/images/contrast-grid.png)
 
@@ -131,7 +131,7 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 
 I have regularly tested all aspects of the site functionality including all links, inputs and responsiveness through Dev Tools in Chrome for the following devices:-
 
-* Galaxy S5
+* LG G6
 * iPhone 5/SE
 * iPhone 6/7/8
 * iPhone 6/7/8 Plus
