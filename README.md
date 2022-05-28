@@ -61,7 +61,7 @@ The site's owner wanted a modern 2022-style website. They decided on a six-color
 
 ![Contrast Grid](assets/images/contrast-grid.png)
 
-All the images used on site have been sourced from Pexels https://www.pexels.com/  and are copyright free images so permission was not needed. 
+All the images used on site have been sourced from Pexels https://www.pexels.com/  who do not require attribution or compensation to the content creator as part of the licencing conditions (https://www.pexels.com/terms-of-service/. 
 
 Google Fonts was used to select a modern and stylish looking font for the this websit.
 
@@ -73,8 +73,8 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 
 
 * Navigation Menu 
-    - This features on all pages of the website. The position and style is consistent across all pages to allow the user to intuitively navigate each section of the mainlanding page and its content as well as intuitively navigate to the other pages of the website like the contact form.  The navigation menu has been styled with html and css only on large screens the nav will display the page links and the logo inline at the top of the page and on small devices the nav will change in to a working hambeurger drop down menue that is still usable without JavaScript when hoverd over links will change colour with a indicator line letting you know that the is usable.
-![Navigation Menu Desktop](assets/images/nav-desktop.png)
+    - This features on all pages of this website. The position and style is consistent across all pages to allow the user to intuitively navigate each section of the main landing page, and its content as well as intuitively navigate to other pages like the contact form.  The navigation menu has been styled with html and css only on large screens the nav will display the page links and the logo inline at the top of the page and on small devices the nav will change in to a working hambeurger drop down menu that is still usable without when hoverd over links will change colour with a indicator line letting you know that the is usable.
+![Navigation Menu Desktop](assets/images/nav1.png)
 
 ![Closed Navigation Menu Mobile](assets/images/NAV_mobile-closed.png)
 
@@ -92,7 +92,10 @@ Google Fonts was used to select a modern and stylish looking font for the this w
     -The hero-image on landing page is quite eye catching with the contrast between the bright colours natural tones it become very striking. but leaves out enough information to entice the site user to make an enquiry.
     - There is also a contact button within the navbar which links directly to the contact form page.  This acts as a call to action to encourage the site user to submit their details to arrange a callback.  The contact button has a hover effect applied so the button background changechanges when it is hovered over to draw attention to itself. The same effect is used on all buttons across the site.
 
-![Hero Image and Overlay Text](assets/images/hero-image.pn)   
+![Hero Image and Overlay Text](assets/images/Hero-img.png)
+![Main Page and Overlay Text](assets/images/services-section.png)
+![Services Images and Overlay Text](assets/images/about.png)
+![Ifram Location Image with Overlay Text And Social Links](assets/images/iframe.png)   
 
 
 * Home Page Features Continued...
@@ -108,7 +111,7 @@ Google Fonts was used to select a modern and stylish looking font for the this w
     - Submit button - With background effect. This button currently links to a thank-you page where a thank you message will be displayed to let the user know their information has been submitted and we will be in contact in due course. 
     - Each field has a ```required``` attribute applied to ensure users input all fields before submiting, the contact form is responsive on desktop devices the contact content is shifted to the left of the form and on smaller devices the contact content is stacked. 
 
-![Contact Form Screenshot](assets/images/form.pn)
+![Contact Form Screenshot](assets/images/contact-form.png)
 
 
 * Thank-you Page
