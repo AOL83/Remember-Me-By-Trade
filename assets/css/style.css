@@ -28,7 +28,7 @@ h1,
 h2,
 h3 {
     margin: 0;
-    padding: 10em 0;
+    /* padding: 10em; */
     text-align: center;
 }
 
@@ -99,7 +99,7 @@ nav a:hover {
     top: 0;
     left: 0;
     margin-left: 1em;
-    height: 13vh;
+    height: 11vh;
     display: flex;
     align-items: center;
 }
@@ -382,7 +382,7 @@ footer {
 /* Contact page */
 
 .container-b {
-    width: 1700vw;
+    width: 100vw;
     margin-left: 0;
     margin-right: 0;
     padding: 1em;
