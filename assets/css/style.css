@@ -28,7 +28,7 @@ h1,
 h2,
 h3 {
     margin: 0;
-    /* padding: 10em; */
+    padding: 10px;
     text-align: center;
 }
 
@@ -109,7 +109,7 @@ nav a:hover {
 .nav-toggle-label span::after {
     display: block;
     background: #faf8f6;
-    height: 2px;
+    height: 3px;
     width: 2em;
     border-radius: 2px;
     position: relative;
@@ -142,8 +142,12 @@ nav a:hover {
 .logo {
     color: #faf8f6;
     font-size: 1.5em;
+    padding-bottom: 2rem;;
 }
 
+.logo h1 {
+    padding-top: 5em;
+}
 /* ----------------------------- */
 
 
