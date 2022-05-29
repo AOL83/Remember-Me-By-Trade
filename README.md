@@ -254,8 +254,16 @@ Live link found here:  [RMBT SUPPORT SOLUTIONS](https://aol83.github.io/Remember
 
 ### Acknowledgments
 
-* Huge thanks to Shellie Downie who invested a lot of time helping me understand a few of the (Obvious) issues I was having and generally just being a great support when I needed help.
-* Thanks to Matt Bodden who took time out of his busy schedule to try teach a brick wall like me. 
-* My mentor Reuben Ferrante for his great feedback, support and input big thanks.
+* Firstly I would like to say, that this has been a brilliant, and an unforgettable learning experience for me, as a person with multiple learning issues like dyslexia amongst others, I decided to take the chance at doing something I have found a massive love for, which has revived my thrust for learning.
+I would like to thank everyone that has been involved in my coding journey especially Scott Clarke
+Education Adviser who help me after taking the five-day coding challenge and encourage me to take the leap, and I'm glad I did so a big thanks to him.
+Also, I would like to thank the following people that have found the time to teach an old dog new tricks these people where very friendly, and made me feel right at home. 
+
+* Huge thanks to Shellie Downie who invested more than a lot of time helping me understand a few of the (Obvious) issues I was having and generally just being a great port of support when I needed the help so a big thanks.
+* Thanks to Matt Bodden who took time to teach a brick wall like me thanks to him and his advice i was able to grasp a more rounded understanding of flexbox. 
+* My mentor Reuben Ferrante for his great feedback, support and input Big big thanks.
 * My mentor Narender Singh who managed to help me understand areas of css and html i hand not fully understood.
 * The brilliant Slack community for their encouragement, motivation and assistance.
+* Maggie Jury who help me with feedback and testing big thanks.
+* Liz Conway who also help with feedback and testing thank you.
+* Stasenko Dasha who help with the positon fixed nav so a big thanks to her.
