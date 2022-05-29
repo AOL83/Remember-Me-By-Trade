@@ -28,7 +28,6 @@ h1,
 h2,
 h3 {
     margin: 0;
-    padding: 10px;
     text-align: center;
 }
 
@@ -142,7 +141,8 @@ nav a:hover {
 .logo {
     color: #faf8f6;
     font-size: 1.5em;
-    padding-bottom: 2rem;;
+    padding-bottom: 2rem;
+    padding: 16px;
 }
 
 .logo h1 {
