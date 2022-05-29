@@ -229,6 +229,11 @@ header .content-wrap {
     border-radius: 1em;
 }
 
+.card-title {
+    padding-top: 2em;
+}
+
+
 .card1-content1 {
     padding: 1.5em;
 }
