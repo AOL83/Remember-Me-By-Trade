@@ -125,7 +125,7 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 ## Testing
 ----
 
-I have tested all aspects of the site functionality including all links as best as possible, inputs and responsiveness through Dev Tools in Chrome & lighthouse for the following devices. (I would of liked a more extensive and in depth testing scrip but with the little time i had left to submit my testing is as follows):-
+I have tested all aspects of the site functionality including all links, inputs and responsiveness  as best as possible through Dev Tools, Chrome & lighthouse for the following devices. (I would of liked a more extensive and in depth testing scrip but with the little time i had left my testing is as follows):-
 
 * LG G6
 * iPhone 5/SE
@@ -155,8 +155,107 @@ I have also tested the site using the following browsers:-
 
 ### Validator testing 
 
-* CSS file has been run through W3C CSS Validator and no errors have been found.  One warnings have been found but relates to the way i mad my nav operate which are not checked by the validator.
+* CSS file has been run through W3C CSS Validator and no errors have been found.  Two warnings have been found although these related to imported stylesheets which are not checked by the validator.
 * All HTML files have been passed through the W3C HTML Validator and no errors have been found. 
 
+<details>
+
+![W3C CSS Validator Results (Jigsaw)](assets/testing/CSS-W3C-PASS.png)
+![W3C CSS Validator Warnings (Jigsaw)](assets/testing/W3C-CSS-WARNINGS.png)
+
+<summary>CSS (W3C Validator)</summary>
+
+</details>
+
+<br>
+
+<details>
+
+![W3C Validator Testing - Home Page](assets/testing/INDEX.HTML-W3C-PASS.png)
+![W3C Validator Testing - Contact](assets/testing/CONTACT.HTML-W3C-PASS.png)
+![W3C Validator Testing - Thank-you Page](assets/testing/THANKYOU.HTML-W3C-PASS.png)
 
 
+<summary>HTML (W3C Validator)</summary>
+
+</details>
+
+<br>
+
+<details>
+
+![Lighthouse Testing - Home Page](assets/testing/index-lighthouse-scoure.png)
+![lighthouse Testing - Contact](assets/testing/contact.html-lighthouse-scoure.png)
+![lighthouse Testing - Thank-you age](assets/testing/THANKYOU-lighthouse-scoure.png)
+
+<summary>Lighthouse Testing</summary>
+
+</details>
+
+### Accessibility Testing
+
+The full site has been passed through wave.webaim.org to check for accessibility and the full report can be found [here.](https://wave.webaim.org/report#/https://aol83.github.io/Remember-Me-By-Trade/)
+
+
+### Bugs
+---
+
+* One of the issues I had from the beginning of this project was getting my nav to be responsive, and change into a working hamburger drop down menu when on small devices, and a positon inconsistency i found but after talking to fellow students and mentors adding a position of fixed and text align of center got it resolved.  
+
+* The responsive contact form was the biggest issue i hand on this project, because when i had originally put my contact form together, it was styled for desktop first instead of mobile first, so i struggled to get my media quires correct, in the end i had to strip back, and start again with mobile first, and work up from there. Doing this resolved many styling issues i had encountered.
+
+
+## Deployment 
+----
+ This site was depoloyed to GitHub pages.  The steps taken to deploy the site are as follows:
+
+ * In the GitHub respository, select the settings menu
+ * Choose the pages tab on the left hand side menu
+ * From the source section drop-down menu, select the 'Main' branch
+ * Once the page has automatically refreshed, the link to the successfully deployed page will be displayed.
+
+Live link found here:  [RMBT SUPPORT SOLUTIONS](https://aol83.github.io/Remember-Me-By-Trade/)
+
+## Credits
+----
+
+* I used similarly structured code for my home page, nav bar and footer as taught in the 'Love Running Walkthrough Project' on the [Code Institute's](https://codeinstitute.net/) Full Stack Web Development course and then made my changes from there as i wanted to add a bit of my own artistic flare to it. I did change somemof the styling, but ultimately I was aiming for a simliar layout for my main page and navigation links/footer and as this was my first project this code helped me to get off to a good start.
+
+* [CSS-Tricks](https://css-tricks.com/) has been an invaluable resource and I have read many articles relating to positioning, flexbox, and styling my contact form.
+
+* [W3 Schools](https://www.w3schools.com/) - Again a valuable resource for consolidating what I had already learned and finding out more about HTML and CSS properties.
+
+* [ColorSpace](https://mycolor.space/) - I used this website to select a color pallete, I started with a natural dark purple similar to that and used that to generate a pallette of complementing colors.  From a selection of pastel palettes generated, I chose the 'Classy Palette'.
+
+* [StackOverflow](https://stackoverflow.com/) - Good resource for finding answers to problems I was having that other coders had similar experiences of.
+
+* [Google](http://google.com) - Grate source of infomation?!
+
+* [Online Convert](https://image.online-convert.com/convert-to-webp) - used to convert images from jpeg to webp for better performance.
+
+* [Tinypng](https://tinypng.com/) used to compress images for better performance.
+
+* Thanks to Pexels - for providing all images.
+
+## Technologies Used
+----
+* HTML
+* CSS
+
+## Frameworks and Libraries
+
+* FontAwesome
+* Google Fonts
+* GitHub
+* GitPod
+* GitPages
+* Am I Responsive
+* Dev Tools
+
+### Acknowledgments
+
+* Huge thanks to Shellie Downie who invested a lot of time helping me understand a few of the (Obvious) issues I was having and generally just being a great support when I needed help.
+* Thanks to Matt Bodden who took time out of his busy schedule to try teach a brick wall like me. 
+* My mentor Reuben Ferrante for his great feedback, support and input big thanks.
+* My mentor Narender Singh who managed to help me understand areas of css and html i hand not fully understood.
+* The brilliant Slack community for their encouragement, motivation and assistance.
