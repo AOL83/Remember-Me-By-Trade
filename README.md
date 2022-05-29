@@ -73,7 +73,7 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 
 
 * Navigation Menu 
-    - This features on all pages of this website. The position and style is consistent across all pages to allow the user to intuitively navigate each section of the main landing page, and its content as well as intuitively navigate to other pages like the contact form.  The navigation menu has been styled with html and css only on large screens the nav will display the page links and the logo inline at the top of the page and on small devices the nav will change in to a working hambeurger drop down menu that is still usable without when hoverd over links will change colour with a indicator line letting you know that the is usable.
+    - This features on all pages of this website. The style is consistent across all pages to allow the user to intuitively navigate each section of the main landing page, and its content as well as intuitively navigate to other pages like the contact form.  The navigation menu has been styled with html and css only on large screens the nav will display the page links and the logo inline at the top of the page and on small devices the nav will change in to a hambeurger drop down menu that is still usable, when hoverd over the links will change colour with a indicator line letting you know that the button is actionable.
 ![Navigation Menu Desktop](assets/images/nav1.png)
 
 ![Closed Navigation Menu Mobile](assets/images/NAV_mobile-closed.png)
@@ -81,7 +81,7 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 ![Open Navigation Menu Mobile](assets/images/NAV-mobile-open.png)
 
 * Footer 
-    - Social Media Links to Facebook, Instagram and twitter with active transitions in color allow the user to know the link is active so they can stay connected to the companys activities and see regular posts.
+    - Social Media Links to Facebook, Instagram and twitter with a active transitions in color allow the user to know the link is active so they can stay connected to the companys activities and see regular posts.
     - Telephone number and email address in footer on every page.  This means that the user does not have to navigate to a different page to have access to this information if they decide they want to email or telephone. 
 
 ![Footer](assets/images/Responcive-footer-A.png)
@@ -89,7 +89,7 @@ Google Fonts was used to select a modern and stylish looking font for the this w
   
 
 * Home Page Features
-    -The hero-image on landing page is quite eye catching with the contrast between the bright colours natural tones it become very striking. but leaves out enough information to entice the site user to make an enquiry.
+    -The hero-image on landing page is quite eye catching with the contrast between the bright colours natural tones it become very striking. the about section leaves out enough information to entice the site user to make an enquiry.
     - There is also a contact button within the navbar which links directly to the contact form page.  This acts as a call to action to encourage the site user to submit their details to arrange a callback.  The contact button has a hover effect applied so the button background changechanges when it is hovered over to draw attention to itself. The same effect is used on all buttons across the site.
 
 ![Hero Image and Overlay Text](assets/images/Hero-img.png)
@@ -200,9 +200,9 @@ The full site has been passed through wave.webaim.org to check for accessibility
 ### Bugs
 ---
 
-* One of the issues I had from the beginning of this project was getting my nav to be responsive, and change into a working hamburger drop down menu when on small devices, and a positon inconsistency i found but after talking to fellow students and mentors adding a position of fixed and text align of center got it resolved.  
+* One of the issues I had from the beginning of this project was getting my nav to be responsive, and to change into a working hamburger drop down menu when on small devices, and a positon inconsistency i found but after talking to fellow students and mentors adding a position of fixed and text align of center got it resolved.  
 
-* The responsive contact form was the biggest issue i hand on this project, because when i had originally put my contact form together, it was styled for desktop first instead of mobile first, so i struggled to get my media quires correct, in the end i had to strip back, and start again with mobile first, and work up from there. Doing this resolved many styling issues i had encountered.
+* The responsive contact form was the biggest issue i hand on this project, because when i had originally put my contact form together, it was styled desktop first instead of mobile first, so i struggled to get my media quires to work, in the end i had to strip back, and start again with mobile first, and work up from there. Doing this resolved many styling issues i had encountered.
 
 
 ## Deployment 
