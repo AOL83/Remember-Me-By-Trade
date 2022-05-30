@@ -22,7 +22,7 @@ This site's srategy is based on satisfying the below user scenario's:-
 
 * Being the website's user, I want to find out insightful information about the company's background, their training and experience, Services and location.
 
-* As a user of the website I want to be able to view infomation about the copmanys work ethics and reputation.
+* As a user of the website I want to be able to view infomation about the companys work ethics and reputation.
 
 
 * As a user of the website I want access to contact information and be able to submit a request for a callback from the Company to show I am interested in their services.
