@@ -82,7 +82,6 @@ nav a:hover {
     position: fixed;
     z-index: 999;
     width: 100%;
-    /* padding: 1em; */
 }
 
 
@@ -161,7 +160,6 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /* height: 60vh; */
 }
 
 .grid h1 {
@@ -184,7 +182,6 @@ header {
 header h1 {
     padding-top: 24vh;
     padding-bottom: 0;
-    /* font-size: 2em; */
 }
 
 header .content-wrap {
@@ -194,9 +191,6 @@ header .content-wrap {
 }
 
 /* --------------------------------- */
-
-
-
 
 /* Section main */
 .content-wrap p {
@@ -272,7 +266,7 @@ header .content-wrap {
     text-align: center;
 }
 
-/* ------------------- */
+/* ------------------------------ */
 
 /* Services Section */
 
@@ -343,6 +337,8 @@ header .content-wrap {
     color: rgb(250, 248, 246);
     padding: 2em;
 }
+
+/* ---------------------------------- */
 
 /* Iframe */
 
@@ -594,7 +590,7 @@ h2 {
     }
 }
 
-/* Navbar media queries */
+/* Navbar media queries with Edge support */
 
 @media (min-width: 800px) {
     .nav-toggle-label {
@@ -619,7 +615,7 @@ h2 {
         background: none;
         top: initial;
         left: initial;
-        /* end Edge support */
+        /* --------end Edge support----------- */
 
         grid-column: 3 / 4;
         display: flex;
