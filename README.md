@@ -116,7 +116,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
 
 
 * Thank-you Page
-    -Thank-you page will only appear when the contact form has been fully completed and submitted.  It will display a short message to thank the users for getting in contact and confirming the RMBT will be in contact in due course.
+    -Thank-you page will only appear when the contact form has been fully completed and submitted.  It will display a short message to thank the users for getting in contact and confirming that RMBT will be in contact in due course.
 
 ![Thank You Page Screenshot](assets/images/thank-you.png)
 <br/>
