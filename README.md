@@ -81,7 +81,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
 ![Open Navigation Menu Mobile](assets/images/NAV-mobile-open.png)
 
 * Footer 
-    - Social Media Links to Facebook, Instagram and twitter with active transitions in color allow the user to know the link is active so they can stay connected to the companys activities and see regular posts.
+    - Social networks Links to Facebook, Instagram and twitter with active transitions in color allow the user to know the link is active so they can stay connected to the companys activities and see regular posts.
     - Telephone number and email address in footer on every page.  This means that the user does not have to navigate to a different page to have access to this information if they decide they want to email or telephone. 
 
 ![Footer](assets/images/Responcive-footer-A.png)
