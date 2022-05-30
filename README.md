@@ -267,5 +267,5 @@ Also, I would like to thank the following people that have found the time to tea
 * The brilliant Slack community for their encouragement, motivation and assistance.
 * Maggie Jury who help me with feedback and testing big thanks.
 * Liz Conway who also help with feedback and testing thank you.
-* Thank to Kevin Powell for his help and tuition in understanding responcive navigation layouts big thanks to him.
-* Traversy Media for his help tuition in understanding responsive pages, and forms so a big thanks as well.
+* Thank to Kevin Powell for his help and tuition in understanding responcive hamburger navigation layouts big thanks to him.
+* Traversy Media for his help tuition in understanding responsive pages, and form stylings so a big thanks as well.
