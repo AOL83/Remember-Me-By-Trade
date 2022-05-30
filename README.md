@@ -57,7 +57,7 @@ The site will consist of a Home landing page with a navigation bar and five sect
 ## Design
 ----
 
-The site's owner wanted a modern 2022-style website. They decided on a six-color scheme incorporating a pastel tone colour pallet from [ColorSpace](https://mycolor.space/), we checked the colour pallet using [EigthShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23faf8f6%2C%0D%0A%2300a4fcd9%0D%0A%234244b9%0D%0A%23191641%0D%0A%23536075de&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) So I decided to go with a simple design as thy chose an eight colour palette scheme of an off-white, a shade of gray (used only on styling the navbar and footer) and these were used in contrast with a light blue for the hover state. The dark blue colour and off-white combination for the button's statics state gives the buttons the highest rating in compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for text/background.
+The site's owner wanted a modern 2022-style website. They decided on a six-color scheme incorporating a pastel tone colour pallet from [ColorSpace](https://mycolor.space/), we checked the colour pallet using [EigthShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23faf8f6%2C%0D%0A%2300a4fcd9%0D%0A%234244b9%0D%0A%23191641%0D%0A%23536075de&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) So I decided to go with a simple design as they had chosen an eight colour palette scheme of an off-white, a shade of gray (used only on styling the navbar) these were used in contrast with a light blue for the hover state of the buttons. The dark blue colour and off-white combination for the button's statics state this gives the buttons the highest rating in compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for text/background.
 
 ![Contrast Grid](assets/images/contrast-grid.png)
 
@@ -81,7 +81,7 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 ![Open Navigation Menu Mobile](assets/images/NAV-mobile-open.png)
 
 * Footer 
-    - Social Media Links to Facebook, Instagram and twitter with a active transitions in color allow the user to know the link is active so they can stay connected to the companys activities and see regular posts.
+    - Social Media Links to Facebook, Instagram and twitter with active transitions in color allow the user to know the link is active so they can stay connected to the companys activities and see regular posts.
     - Telephone number and email address in footer on every page.  This means that the user does not have to navigate to a different page to have access to this information if they decide they want to email or telephone. 
 
 ![Footer](assets/images/Responcive-footer-A.png)
@@ -90,7 +90,7 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 
 * Home Page Features
     -The hero-image on landing page is quite eye catching with the contrast between the bright colours natural tones it become very striking. the about section leaves out enough information to entice the site user to make an enquiry.
-    - There is also a contact button within the navbar which links directly to the contact form page.  This acts as a call to action to encourage the site user to submit their details to arrange a callback.  The contact button has a hover effect applied so the button background changechanges when it is hovered over to draw attention to itself. The same effect is used on all buttons across the site.
+    - There is also a contact button within the navbar which links directly to the contact form page.  This acts as a call to action to encourage the site user to submit their details to arrange a callback.  The contact button has a hover effect applied so the buttons background changes when it is hovered over to draw attention to itself. The same effect is used on all buttons across the site.
 
 ![Hero Image and Overlay Text](assets/images/Hero-img.png)
 ![Main Page and Overlay Text](assets/images/services-section.png)
@@ -99,18 +99,18 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 
 
 * Home Page Features Continued...
-    - The home page consists of the following one landing page with an image a welcome message in the head, beneath that is an infomaiton section with a small brief then another section containing three further images and infomation about services. Then the first information box provides the site user with introduction about RMBT IT & Office suppsupport Solutions Agency, their training, experience, and work ethos. There is also a links at the bottom of the page that encourage the user to visit us on our socila networks.  
+    - The home page consists of the following one landing page with an image a welcome message in the head, beneath that is an information section with a small brief then another section containing three further images and information about services. Then the first information box provides the site user with introduction about RMBT IT & Office Support Solutions Agency, their training, experience, and work ethos. There is also a links at the bottom of the page that encourage the user to visit us on our socila networks.  
     - The second information box provides brief contact information.
-    - The information boxes are styled with a darker colour so that text is aloud to stand out.
+    - The information boxes are styled with a darker colour so that text is allowed to stand out.
     - As a decorative feature for this section. These are displayed next to each other on larger screens, but stacked on top of each other when on smaller screens, like mobile phones.
-     - The iframe map feather is to show the companys location i felt adding this was important. 
+     - The iframe map feature is to show the companys location I felt adding this was important. 
 
 
 * Contact Form
     - Input fields to submit name, company name, phone, and email address.
     - Text area to add information for a message to RBMT.
     - Submit button - With background effect. This button currently links to a thank-you page where a thank you message that will be displayed to let the user know their information has been submitted and RMBT will be in contact in due course. 
-    - Each field has a ```required``` attribute applied to ensure users input all fields before submiting, the contact form is responsive on desktop devices the contact content is shifted to the left of the form and on smaller devices the contact content is stacked. 
+    - Each field has a ```required``` attribute applied to ensure users input all fields before submitting.The contact form is responsive on desktop devices and on smaller devices the contact content is stacked. 
 
 ![Contact Form Screenshot](assets/images/contact-form.png)
 
@@ -126,7 +126,7 @@ Google Fonts was used to select a modern and stylish looking font for the this w
 ## Testing
 ----
 
-I have tested all aspects of the site functionality including all links, inputs and responsiveness  as best as possible through Dev Tools, Chrome & lighthouse for the following devices. (I would of liked a more extensive and in depth testing scrip but with the little time i had left my testing is as follows):-
+I have tested all aspects of the site functionality including all links, inputs and responsiveness  as best as possible through Dev Tools, Chrome & lighthouse for the following devices. (I would have liked a more extensive and in depth testing script but with the little time I had left my testing is as follows):-
 
 * LG G6
 * iPhone 5/SE
