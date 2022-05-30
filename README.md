@@ -201,9 +201,9 @@ The full site has been passed through wave.webaim.org to check for accessibility
 ### Bugs
 ---
 
-* One of the issues I had from the beginning of this project was getting my nav to be responsive, and to change into a working hamburger drop down menu when on small devices, and a positon inconsistency i found but after talking to fellow students and mentors adding a position of fixed and text align of center got it resolved.  
+* One of the issues I had from the beginning of this project was getting my nav to be responsive, and to change into a working hamburger drop down menu when on small devices, and a positioning inconsistency I found but after talking to fellow students and mentors adding a position of fixed and text align of center got it resolved.  
 
-* The responsive contact form was the biggest issue i hand on this project, because when i had originally put my contact form together, it was styled desktop first instead of mobile first, so i struggled to get my media quires to work, in the end i had to strip back, and start again with mobile first, and work up from there. Doing this resolved many styling issues i had encountered.
+* The responsive contact form was the biggest issue I had on this project, because when I had originally put my contact form together, it was styled desktop first instead of mobile first, so i struggled to get my media quires to work, in the end I had to strip back, and start again with mobile first, and work up from there. Doing this resolved many styling issues I had encountered.
 
 
 ## Deployment 
@@ -220,7 +220,7 @@ Live link found here:  [RMBT SUPPORT SOLUTIONS](https://aol83.github.io/Remember
 ## Credits
 ----
 
-* I used similarly structured code for my home page, nav bar and footer as taught in the 'Love Running Walkthrough Project' on the [Code Institute's](https://codeinstitute.net/) Full Stack Web Development course and then made my changes from there as i wanted to add a bit of my own artistic flare to it. I did change somemof the styling, but ultimately I was aiming for a simliar layout for my main page and navigation links/footer and as this was my first project this code helped me to get off to a good start.
+* I used similarly structured code for my home page, nav bar and footer as taught in the 'Love Running Walkthrough Project' on the [Code Institute's](https://codeinstitute.net/) Full Stack Web Development course and then made my changes from there as I wanted to add a bit of my own artistic flare to it using the sources of infomation I had been kindly give. I did change some of the styling, but ultimately I was aiming for a simliar layout for my main page and navigation link response and the footer. As this was my first project this code helped me to get off to a good start.
 
 * [CSS-Tricks](https://css-tricks.com/) has been an invaluable resource and I have read many articles relating to positioning, flexbox, and styling my contact form.
 
@@ -255,13 +255,14 @@ Live link found here:  [RMBT SUPPORT SOLUTIONS](https://aol83.github.io/Remember
 
 ### Acknowledgments
 
-* Firstly I would like to say, that this has been a brilliant, and unforgettable learning experience for me, as a person with multiple learning issues like dyslexia and others, I decided to take the chance at doing something I have found a massive love for, which has revived my thrust for learning so win, loose, or draw i can come away knowing i have learned key skills i definitely didn't know before.
+* Firstly I would like to say, that this has been a brilliant, and unforgettable learning experience for me, as a person with multiple learning issues like dyslexia and others, I decided to take the chance at doing something I have found a massive love for, which has revived my thrust for learning so win, loose, or draw I can come away knowing I have learned key skills I definitely didn't know before.
 I would like to take a minute to thank everyone that has been involved in my coding journey especially Scott Clarke
 Education Adviser who help me after taking the five-day coding challenge and encourage me to take the leap, and I'm glad I did so a big thanks to him.
 Also, I would like to thank the following people that have found the time to teach an old dog new tricks these people where very friendly, and made me feel right at home. 
 
-* Huge thanks to Shellie Downie who invested more than a lot of time helping me and gave me the idea for my thank you page as well as helping me understand a few of the (Obvious) issues I was having and generally just being a great port of support when I needed the help so a BIG THANKS to her.
-* Thanks to Matt Bodden who took time to teach a brick wall like me thanks to him and his advice i was able to grasp a more rounded understanding of flexbox. 
+* A massive thanks to the code institute for for the opportunity to take the corse and for the invaluable help with the structure of my website.
+* Huge huge thanks to Shellie Downie who invested more than a lot of time helping me, and gave me loads of sources of information to help me under where I was going wrong the idea for my thank you page as well as helping me understand a few of the (Obvious) issues I was having as well, but generally being a great port of support when I needed the help so a BIG THANKS again to her.
+* Thanks to Matt Bodden who took time to teach a brick wall like me. Thanks to his advice I was able to grasp a more rounded understanding of flexbox and the problems I had starting with desktop first. 
 * My mentor Reuben Ferrante for his great feedback, support and input Big big thanks.
 * My mentor Narender Singh who managed to help me understand areas of css and html i hand not fully understood.
 * The brilliant Slack community for their encouragement, motivation and assistance.
