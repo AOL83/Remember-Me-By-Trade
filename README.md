@@ -4,7 +4,7 @@ This website is aimed mainly at Companys that have IT issues or need a position 
 
 From the perspective of the site owner, the aim of this website is to generate customer interaction which will generate revenue by providing information about services, showcasing skills through the company's experience in the field and encouraging potential clients to get in touch.
 
-![Am I Responsive screeshot!](assets/images/I-responcive.png)
+![Am I Responsive screeshot!](assets/images/responsive.png)
 
 Link to deployed site:
 
@@ -102,13 +102,13 @@ Google Fonts was used to select a modern and stylish looking font for the this w
     - The home page consists of the following one landing page with an image a welcome message in the head, beneath that is an infomaiton section with a small brief then another section containing three further images and infomation about services. Then the first information box provides the site user with introduction about RMBT IT & Office suppsupport Solutions Agency, their training, experience, and work ethos. There is also a links at the bottom of the page that encourage the user to visit us on our socila networks.  
     - The second information box provides brief contact information.
     - The information boxes are styled with a darker colour so that text is aloud to stand out.
-    - As a decorative feature for this section. These are displayed next to eath other on larger screens, but stacked on top of each other when on smaller screens, such as mobile phones. 
+    - As a decorative feature for this section. These are displayed next to each other on larger screens, but stacked on top of each other when on smaller screens, like mobile phones. 
 
 
 * Contact Form
     - Input fields to submit name, company name, phone, and email address.
     - Text area to add information for a message to RBMT.
-    - Submit button - With background effect. This button currently links to a thank-you page where a thank you message will be displayed to let the user know their information has been submitted and we will be in contact in due course. 
+    - Submit button - With background effect. This button currently links to a thank-you page where a thank you message that will be displayed to let the user know their information has been submitted and RMBT will be in contact in due course. 
     - Each field has a ```required``` attribute applied to ensure users input all fields before submiting, the contact form is responsive on desktop devices the contact content is shifted to the left of the form and on smaller devices the contact content is stacked. 
 
 ![Contact Form Screenshot](assets/images/contact-form.png)
@@ -254,8 +254,8 @@ Live link found here:  [RMBT SUPPORT SOLUTIONS](https://aol83.github.io/Remember
 
 ### Acknowledgments
 
-* Firstly I would like to say, that this has been a brilliant, and an unforgettable learning experience for me, as a person with multiple learning issues like dyslexia amongst others, I decided to take the chance at doing something I have found a massive love for, which has revived my thrust for learning.
-I would like to thank everyone that has been involved in my coding journey especially Scott Clarke
+* Firstly I would like to say, that this has been a brilliant, and unforgettable learning experience for me, as a person with multiple learning issues like dyslexia and others, I decided to take the chance at doing something I have found a massive love for, which has revived my thrust for learning so win, loose, or draw i can come away knowing i have learned key skills i definitely didn't know before.
+I would like to take a minute to thank everyone that has been involved in my coding journey especially Scott Clarke
 Education Adviser who help me after taking the five-day coding challenge and encourage me to take the leap, and I'm glad I did so a big thanks to him.
 Also, I would like to thank the following people that have found the time to teach an old dog new tricks these people where very friendly, and made me feel right at home. 
 
@@ -266,4 +266,4 @@ Also, I would like to thank the following people that have found the time to tea
 * The brilliant Slack community for their encouragement, motivation and assistance.
 * Maggie Jury who help me with feedback and testing big thanks.
 * Liz Conway who also help with feedback and testing thank you.
-* Stasenko Dasha who help with the positon fixed nav so a big thanks to her.
+* Stasenko Dasha who help with the positon fixed nav and feedback so a big thanks to her.
