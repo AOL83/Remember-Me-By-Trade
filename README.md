@@ -73,7 +73,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
 
 
 * Navigation Menu 
-    - This features on all pages of this website. The style is consistent across all pages to allow the user to intuitively navigate each section of the main landing page, and its content as well as intuitively navigate to other pages like the contact form.  The navigation menu has been styled with html and css only on large screens the nav will display the page links and the logo inline at the top of the page and on small devices the nav will change in to a hambeurger drop down menu that is still usable, when hoverd over the links will change colour with a indicator line letting you know that the button is actionable.
+    - This features on all pages of this website. The style is consistent across all pages to allow the user to intuitively navigate each section of the main landing page, and its content as well as intuitively navigate to other pages like the contact form.  The navigation menu has been styled with html and css only, on large screens the nav will display the page links and the logo inline at the top of the page and on small devices the nav will change in to a hambeurger drop down menu that is still usable, when hoverd over the links will change colour with a indicator line letting you know that the button is actionable.
 ![Navigation Menu Desktop](assets/images/nav1.png)
 
 ![Closed Navigation Menu Mobile](assets/images/NAV_mobile-closed.png)
