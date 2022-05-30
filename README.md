@@ -4,7 +4,7 @@ This website is aimed mainly at Companys that have IT issues or need a position 
 
 From the perspective of the site owner, the aim of this website is to generate customer interaction which will generate revenue by providing information about services, showcasing skills through the company's experience in the field and encouraging potential clients to get in touch.
 
-![Am I Responsive screeshot!](assets/images/website-pic.png)
+![Am I Responsive screeshot!](assets/images/I-responcive.png)
 
 Link to deployed site:
 
