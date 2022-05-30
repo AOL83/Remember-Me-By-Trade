@@ -202,7 +202,7 @@ The full site has been passed through wave.webaim.org to check for accessibility
 
 * One of the issues I had from the beginning of this project was getting my nav to be responsive, and to change into a working hamburger drop down menu when on small devices, and a positioning inconsistency I found but after talking to fellow students and mentors adding a position of fixed and text align of center got it resolved.  
 
-* The responsive contact form was the biggest issue I had on this project, because when I had originally put my contact form together, it was styled desktop first instead of mobile first, so i struggled to get my media quires to work, in the end I had to strip back, and start again with mobile first, and work up from there. Doing this resolved many styling issues I had encountered.
+* The responsive contact form was the biggest issue I had on this project, because when I had originally put my contact form together, it was styled desktop first instead of mobile first, so i struggled to get my media queries to work, in the end I had to strip back, and start again with mobile first, and work up from there. Doing this resolved many styling issues I had encountered.
 
 
 ## Deployment 
