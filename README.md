@@ -260,7 +260,7 @@ I would like to take a minute to thank everyone that has been involved in my cod
 Education Adviser who help me after taking the five-day coding challenge and encourage me to take the leap, and I'm glad I did so a big thanks to him.
 Also, I would like to thank the following people that have found the time to teach an old dog new tricks these people where very friendly, and made me feel right at home. 
 
-* Huge thanks to Shellie Downie who invested more than a lot of time helping me understand a few of the (Obvious) issues I was having and generally just being a great port of support when I needed the help so a big thanks.
+* Huge thanks to Shellie Downie who invested more than a lot of time helping me and gave me the idea for my thank you page as well as helping me understand a few of the (Obvious) issues I was having and generally just being a great port of support when I needed the help so a BIG THANKS to her.
 * Thanks to Matt Bodden who took time to teach a brick wall like me thanks to him and his advice i was able to grasp a more rounded understanding of flexbox. 
 * My mentor Reuben Ferrante for his great feedback, support and input Big big thanks.
 * My mentor Narender Singh who managed to help me understand areas of css and html i hand not fully understood.
@@ -268,4 +268,4 @@ Also, I would like to thank the following people that have found the time to tea
 * Maggie Jury who help me with feedback and testing big thanks.
 * Liz Conway who also help with feedback and testing thank you.
 * Kevin Powell for his help and tuition in understanding responcive hamburger navigation layouts big thanks to him.
-* Traversy Media for his help tuition in understanding responsive pages, and form stylings so a big thanks as well.
+* Traversy Media for his help and tuition in understanding responsive pages, and form stylings so a big thanks as well.
