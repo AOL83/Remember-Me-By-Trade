@@ -61,7 +61,7 @@ The site's owner wanted a modern 2022-style website. They decided on a six-color
 
 ![Contrast Grid](assets/images/contrast-grid.png)
 
-All the images used on site have been sourced from Pexels https://www.pexels.com/  who do not require attribution or compensation to the content creator as part of the licencing conditions (https://www.pexels.com/terms-of-service/. 
+All the images used on this website have been sourced from Pexels https://www.pexels.com/  who do not require attribution or compensation to the content creator as part of the licencing conditions (https://www.pexels.com/terms-of-service/. 
 
 Google Fonts was used to select a modern and stylish looking font for the this website.
 
