@@ -99,7 +99,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
 
 
 * Home Page Features Continued...
-    - The home page consists of the following one landing page with an image a welcome message in the head, beneath that is an information section with a small brief then another section containing three further images and information about services. Then the first information box provides the site user with introduction about RMBT IT & Office Support Solutions Agency, their training, experience, and work ethos. There is also a links at the bottom of the page that encourage the user to visit us on our Social networks.  
+    - The home page consists of the following one landing page with an image a welcome message in the head, beneath that is an information section with a small brief then another section containing three further images and information about services. Then the first information box provides the site user with introduction about RMBT IT & Office Support Solutions Agency, their training, experience, and work ethos. There is also a links at the bottom of the page that encourage the user to visit us on our social networks.  
     - The second information box provides brief contact information.
     - The information boxes are styled with a darker colour so that text is allowed to stand out.
     - As a decorative feature for this section. These are displayed next to each other on larger screens, but stacked on top of each other when on smaller screens, like mobile phones.
