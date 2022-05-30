@@ -136,7 +136,6 @@ I have tested all aspects of the site functionality including all links, inputs 
 * iPhone 11 Pro
 * iPad
 * iPad Pro
-* Surface Due
 
 
 I tested the site physically on the below devices:
