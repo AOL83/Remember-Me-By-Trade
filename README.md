@@ -195,7 +195,7 @@ I have also tested the site using the following browsers:-
 
 ### Accessibility Testing
 
-The full site has been passed through wave.webaim.org to check for accessibility and the full report can be found [here.](https://wave.webaim.org/report#/https://aol83.github.io/Remember-Me-By-Trade/)
+The full site has been passed through wave.webaim.org to check for accessibility the only error found was for a span that is necessary for my nav to work so error could not be resolved and the full report can be found  [here.](https://wave.webaim.org/report#/https://aol83.github.io/Remember-Me-By-Trade/)
 
 
 ### Bugs
