@@ -109,7 +109,7 @@ nav a:hover {
     display: block;
     background: #faf8f6;
     height: 3px;
-    width: 2em;
+    width: 1.5em;
     border-radius: 2px;
     position: relative;
 }
@@ -139,7 +139,7 @@ nav a:hover {
 }
 
 .logo {
-    color: #faf8f6;
+    color: #1ca4ff;
     font-size: 1.5em;
     padding-bottom: 2rem;
     padding: 16px;
@@ -162,6 +162,11 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     /* height: 60vh; */
+}
+
+#top p, span {
+    color: #1ca4ff;
+    font-size: 2rem;
 }
 
 
@@ -346,6 +351,7 @@ footer {
     margin: 0;
     width: 100%;
     bottom: 0;
+    padding-top: 2em;
 }
 
 .contact-info {
@@ -385,6 +391,10 @@ footer {
     border-radius: 50%;
 }
 
+.footer-container {
+    margin-bottom: 0;
+}
+
 
 /* ------------------------------- */
 
@@ -414,7 +424,7 @@ footer {
 }
 
 .brand-b span {
-    color: #4244b9;
+    color: #1ca4ff;
 }
 
 .wrapper {
