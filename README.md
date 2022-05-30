@@ -207,7 +207,7 @@ The full site has been passed through wave.webaim.org to check for accessibility
 
 ## Deployment 
 ----
- This site was depoloyed to GitHub pages.  The steps taken to deploy the site are as follows:
+ This site was deployed to GitHub pages.  The steps taken to deploy the site are as follows:
 
  * In the GitHub respository, select the settings menu
  * Choose the pages tab on the left hand side menu
