@@ -102,7 +102,8 @@ Google Fonts was used to select a modern and stylish looking font for the this w
     - The home page consists of the following one landing page with an image a welcome message in the head, beneath that is an infomaiton section with a small brief then another section containing three further images and infomation about services. Then the first information box provides the site user with introduction about RMBT IT & Office suppsupport Solutions Agency, their training, experience, and work ethos. There is also a links at the bottom of the page that encourage the user to visit us on our socila networks.  
     - The second information box provides brief contact information.
     - The information boxes are styled with a darker colour so that text is aloud to stand out.
-    - As a decorative feature for this section. These are displayed next to each other on larger screens, but stacked on top of each other when on smaller screens, like mobile phones. 
+    - As a decorative feature for this section. These are displayed next to each other on larger screens, but stacked on top of each other when on smaller screens, like mobile phones.
+     - The iframe map feather is to show the companys location i felt adding this was important. 
 
 
 * Contact Form
