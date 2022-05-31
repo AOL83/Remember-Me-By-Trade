@@ -85,15 +85,15 @@ Google Fonts was used to select a modern and stylish looking font for this websi
 ![Open Navigation Menu Mobile](assets/images/NAV-MOBILE-OPEN.webp)
 
 * Footer 
-    - Social networks Links to Facebook, Instagram and twitter with active transitions in color allow the user to know the link is active so they can stay connected to the companys activities and see regular posts.
-    - Telephone number and email address in footer on every page.  This means that the user does not have to navigate to a different page to have access to this information if they decide they want to email or telephone. 
+    - Social network Links to Facebook, Instagram and twitter, that have a active transitions in color that allows the user to know the links are active, so they can stay connected to the companys activities and see regular posts.
+    - Telephone number and email address in footer on every page. This means that the user does not have to navigate to a different page to have access to this information if they decide they want to email or telephone. 
 
 ![Footer](assets/images/RESPONSIVE-FOOTER-A.webp)
 ![Footer](assets/images/RESPONSIVE-FOOTER-B.webp)   
   
 
 * Home Page Features
-    -The hero-image on landing page is quite eye catching with the contrast between the bright colours natural tones it becomes very striking. the about section leaves out enough information to entice the site user to make an enquiry.
+    -The hero-image on the landing page catches the eye with the contrast between the bright colours natural tones it becomes very striking. the about section leaves out enough information to entice the site user to make an enquiry.
     - There is also a contact button within the navbar which links directly to the contact form page.  This acts as a call to action to encourage the site user to submit their details to arrange a callback.  The contact button has a hover effect applied so the buttons background changes when it is hovered over to draw attention to itself. The same effect is used on all buttons across the site.
 
 ![Hero Image and Overlay Text](assets/images/HERO-IMAGE.webp)
