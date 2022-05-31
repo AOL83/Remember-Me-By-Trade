@@ -93,7 +93,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
   
 
 * Home Page Features
-    -The hero-image on the landing page catches the eye with the contrast between the bright colours natural tones it becomes very striking. the about section leaves out enough information to entice the site user to make an enquiry.
+    -The hero-image that is on the main landing page seems very eye catching with the contrast between the bright colours natural tones it becomes very striking. the about section leaves out enough information to entice the site user to make an enquiry.
     - There is also a contact button within the navbar which links directly to the contact form page.  This acts as a call to action to encourage the site user to submit their details to arrange a callback.  The contact button has a hover effect applied so the buttons background changes when it is hovered over to draw attention to itself. The same effect is used on all buttons across the site.
 
 ![Hero Image and Overlay Text](assets/images/HERO-IMAGE.webp)
