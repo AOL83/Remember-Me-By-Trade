@@ -216,7 +216,7 @@ I have also tested the site using the following browsers:-
 
 ### Validator testing 
 
-* CSS file has been run through W3C CSS Validator and no errors have been found.  Two warnings have been found although these related to imported stylesheets which are not checked by the validator.
+* CSS file has been run through W3C CSS Validator and no errors have been found.
 * All HTML files have been passed through the W3C HTML Validator and no errors have been found. 
 
 <details>
