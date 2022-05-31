@@ -318,9 +318,9 @@ Live link found here:  [RMBT SUPPORT SOLUTIONS](https://aol83.github.io/Remember
 * Firstly I would like to say, that this has been a brilliant, and unforgettable learning experience for me, as a person with multiple learning issues like dyslexia and others, I decided to take the chance at doing something I have found a massive love for, which has revived my thurst for learning, so win loose or draw, I can come away knowing I have learned valuable skills I definitely didn't know before.
 I would like to take a minute to thank everyone that has been involved in my coding journey especially Scott Clarke
 Education Adviser who help me after taking the five-day coding challenge and encourage me to take the leap, and I'm glad I did so a big thanks to him.
-Also, I would like to thank the following people that have found the time to teach an old dog new tricks these people where very friendly, and made me feel right at home. 
+Also, I would like to thank the following people that have found the time to teach an old dog new tricks, these people where very friendly, and made me feel right at home. 
 
-* A massive thanks to the code institute for for the opportunity to take the corse and for the invaluable help with the structure of my website.
+* A massive thanks to the code institute for the opportunity to take the corse and for the invaluable help with the structure of my website.
 * Huge huge thanks to Shellie Downie who invested more than a lot of time helping me, and gave me loads of sources of information to help me under where I was going wrong the idea for my thank you page as well as helping me understand a few of the (Obvious) issues I was having as well, but generally being a great port of support when I needed the help so a BIG THANKS again to her.
 * Thanks to Matt Bodden who took time to teach a brick wall like me. Thanks to his advice I was able to grasp a more rounded understanding of flexbox and the problems I had starting with desktop first. 
 * My mentor Reuben Ferrante for his great feedback, support and input Big big thanks.
