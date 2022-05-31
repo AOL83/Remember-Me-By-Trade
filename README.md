@@ -14,18 +14,22 @@ Link to deployed site:
 ## Strategy
 ----
 
-### User Stories
+## User Experience (UX)
 
-This site's srategy is based on satisfying the below user scenario's:-
+-   ### User stories
 
-* As the user I need to be able to navigate around the website intuitively.
+    -   #### First Time Visitor Goals
 
-* Being the website's user, I want to find out insightful information about the company's background, their training and experience, Services and location.
+        1. As a First Time User of the site, I want to easily understand the main purpose of the site and learn more about the organisations reputation.
+        2. As a First Time User, I want to be able to easily navigate throughout the site to find content.
+        3. As a First Time User, I want to locate a contact form so I can ask about services or request a call back. 
 
-* As a user of the website I want to be able to view infomation about the companys work ethics and reputation.
+    -   #### Returning Visitor Goals
 
+        1. As a Returning User, I want to find information about any new service's.
+        2. As a Returning User, I want to find the best way to get in contact with the organisation with any questions I may have.
+        3. As a Returning User, I want to find their social media links to see their followers on social media to determine how known they are.
 
-* As a user of the website I want access to contact information and be able to submit a request for a callback from the Company to show I am interested in their services.
 
 
 
@@ -119,7 +123,50 @@ Google Fonts was used to select a modern and stylish looking font for this websi
     -Thank-you page will only appear when the contact form has been fully completed and submitted.  It will display a short message to thank the users for getting in contact and confirming that RMBT will be in contact in due course.
 
 ![Thank You Page Screenshot](assets/images/THANKYOU.webp)
+
+
 <br/>
+
+
+### Testing User Stories from User Experience (UX) Section
+
+-   #### First Time Visitor Goals
+
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text.
+        2. The main points are made immediately with the hero image
+        3. The user has two options, click the call to action buttons in the nav or scroll down, both of which will lead to the same place, to learn more about the organisation.
+
+    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what page they will end up at clearly.
+        2. At the bottom of every page there are social network links to be used as a call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
+        3. On the Contact Us Page, after a form is correctly submitted, you will be take to a thank you page to let you know you message has been received.
+
+    3. As a First Time Visitor, I want to look at the company's skills and hear what clients think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+        1. Once the new visitor has read the About Us and What We Do, they will notice We are trusted.
+        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
+        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights them hoverd over.
+
+-   #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want to easily find a contact form to get in touch if I have any questions or get in touch via social media and an map to show a companys location if i need to go the the office.
+
+        1. This is clearly shown in the ifram map.
+        2. social media links easily accessible on every page.
+
+    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+
+        1. The navigation bar clearly highlights the "Contact Us" call to action link in the nav when hoverd over.
+        2. Here they can fill out the form on the page to reach us.
+        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
+        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+
+    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
+        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook link.
+
 
 
 
