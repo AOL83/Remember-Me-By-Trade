@@ -142,7 +142,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
 
         1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what page they will end up at clearly.
         2. At the bottom of every page there are social network links to be used as a call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form is correctly submitted, you will be take to a thank you page to let you know you message has been received.
+        3. On the Contact Us Page, after a form is correctly submitted, you will be taken to a thank you page to let you know you message has been received.
 
     3. As a First Time Visitor, I want to look at the company's skills and hear what clients think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
         1. Once the new visitor has read the About Us and What We Do, they will notice We are trusted.
