@@ -184,7 +184,7 @@ I have tested all aspects of the site functionality including all links, inputs 
 
 ### Known Bugs
 
--   On some mobile devices the nav toggle button pushes towards the the bottm of the navigation bar.
+-   On some mobile devices the nav toggle button pushes towards the bottom of the navigation bar container.
 -   On Microsoft Edge and Internet Explorer Browsers, the all pages have a slight bounce in the x&y axis.
 
 
