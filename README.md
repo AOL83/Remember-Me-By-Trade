@@ -321,7 +321,7 @@ Education Adviser who help me after taking the five-day coding challenge and enc
 Also, I would like to thank the following people that have found the time to teach an old dog new tricks, these people where very friendly, and made me feel right at home. 
 
 * A massive thanks to the code institute for the opportunity to take the corse and for the invaluable help with the structure of my website.
-* Huge huge thanks to Shellie Downie who invested more than a lot of time helping me, Shellie gave me loads of sources of information to help me understand where I was going wrong and a big thanks for idea for my thank you page, as well as helping me understand a few of the (Obvious) issues I was having, but generally being a great port of support when I needed the help so a BIG THANKS again to her.
+* Huge huge thanks to Shellie Downie who invested more than a lot of time helping me, Shellie gave me loads of sources of information to help me understand where I was going wrong and a big thank you for giving me the idea for my thank you page, as well as helping me understand a few of the (Obvious) issues I was having, but generally being a great port of support when I needed the help so a BIG THANKS again to her.
 * Thanks to Matt Bodden who took time to teach a brick wall like me. Thanks to his advice I was able to grasp a more rounded understanding of flexbox and the problems I had starting with desktop first. 
 * My mentor Reuben Ferrante for his great feedback, support and input Big big thanks.
 * My mentor, Technology Enthusiast, aspiring YouTuber, Apple fanboy, and Foodie. Narender Singh (https://github.com/singh-narender) who managed to help me understand areas of css and html I hand not fully understood.
