@@ -324,7 +324,7 @@ Also, I would like to thank the following people that have found the time to tea
 * Huge huge thanks to Shellie Downie who invested more than a lot of time helping me, and gave me loads of sources of information to help me under where I was going wrong the idea for my thank you page as well as helping me understand a few of the (Obvious) issues I was having as well, but generally being a great port of support when I needed the help so a BIG THANKS again to her.
 * Thanks to Matt Bodden who took time to teach a brick wall like me. Thanks to his advice I was able to grasp a more rounded understanding of flexbox and the problems I had starting with desktop first. 
 * My mentor Reuben Ferrante for his great feedback, support and input Big big thanks.
-* My mentor Narender Singh who managed to help me understand areas of css and html i hand not fully understood.
+* My mentor, Technology Enthusiast, aspiring YouTuber, Apple fanboy, and Foodie. Narender Singh (https://github.com/singh-narender) who managed to help me understand areas of css and html I hand not fully understood.
 * The brilliant Slack community for their encouragement, motivation and assistance.
 * Maggie Jury who help me with feedback and testing big thanks.
 * Liz Conway who also help with feedback and testing thank you.
