@@ -164,8 +164,8 @@ Google Fonts was used to select a modern and stylish looking font for this websi
         4. Whichever link they click, a new page will be opened up in a new tab to ensure the user can easily get back to the website.
 
     3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook link.
+        1. The Facebook Page link can be found in the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
+        2. Alternatively, the user can scroll to the bottom of the Home page to find the other social links.
 
 
 
