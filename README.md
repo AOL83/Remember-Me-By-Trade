@@ -175,7 +175,19 @@ Google Fonts was used to select a modern and stylish looking font for this websi
 
 I have tested all aspects of the site functionality including all links, inputs and responsiveness  as best as possible through Dev Tools, Chrome & lighthouse for the following devices. (I would have liked a more extensive and in depth testing script but with the little time I had left my testing is as follows):-
 
-* LG G6
+### Further Testing
+
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge, Brave and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5c, iPhone 8 & iPhoneSmaX.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Friends on slack and family members were asked to review the site to point out any bugs and/or user experience issues.
+
+### Known Bugs
+
+-   On some mobile devices the nav toggle button pushes towards the the bottm of the navigation bar.t.
+-   On Microsoft Edge and Internet Explorer Browsers, the all pages have a slight bounce in the x&y axis.
+
+
 * iPhone 5/SE
 * iPhone 6/7/8
 * iPhone 6/7/8 Plus
