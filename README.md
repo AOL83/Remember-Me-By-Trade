@@ -1,10 +1,10 @@
-![Office pic!](assets/images/RMBT.png)
+![Office pic!](assets/images/RMBT-RESPONSIVE.webp)
 # Remember Me By Trade IT & Office Support Solutions Agency
 This website is aimed mainly at Companys that have IT issues or need a position permanently or temporarily filled with a skilled member of staff based in London, the South of England. The aim is to give enough information about the site's owner - their experience and the services provided. Users of the site will be able to gain contact information, location and also submit a request for RMBT to contact them back.
 
 From the perspective of the site owner, the aim of this website is to generate customer interaction which will generate revenue by providing information about services, showcasing skills through the company's experience in the field and encouraging potential clients to get in touch.
 
-![Am I Responsive screeshot!](assets/images/responsive.png)
+![Am I Responsive screeshot!](assets/images/responsive-.webp)
 
 Link to deployed site:
 
@@ -38,8 +38,8 @@ The site will consist of a Home landing page with a navigation bar and five sect
 <summary>Desktop Wireframes</summary>
 <br>
 
-![Wireframes](assets/wireframes/RMBT-DESKTOP.png)
-![Wireframes](assets/wireframes/RMBT-TABLET.png)
+![Wireframes](assets/wireframes/DESKTOP.webp)
+![Wireframes](assets/wireframes/TABLET.webp)
 
 </details>
 
@@ -49,7 +49,7 @@ The site will consist of a Home landing page with a navigation bar and five sect
 <summary>Mobile Wireframes</summary>
 <br> 
 
-![wireframes](assets/wireframes/New-Wireframe-1.png)
+![wireframes](assets/wireframes/MOBILE.webp)
 </details>
 
 <br>
@@ -59,7 +59,7 @@ The site will consist of a Home landing page with a navigation bar and five sect
 
 The site's owner wanted a modern 2022-style website. They decided on a six-color scheme incorporating a pastel tone colour pallet from [ColorSpace](https://mycolor.space/), we checked the colour pallet using [EigthShapes Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23faf8f6%2C%0D%0A%2300a4fcd9%0D%0A%234244b9%0D%0A%23191641%0D%0A%23536075de&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) So I decided to go with a simple design as they had chosen an eight colour palette scheme of an off-white, a shade of gray (used only on styling the navbar) these were used in contrast with a light blue for the hover state of the buttons. The dark blue colour and off-white combination for the button's statics state this gives the buttons the highest rating in compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) for text/background.
 
-![Contrast Grid](assets/images/contrast-grid.png)
+![Contrast Grid](assets/images/contrast-grid.webp)
 
 All the images used on this website have been sourced from Pexels https://www.pexels.com/  who do not require attribution or compensation to the content creator as part of the licencing conditions (https://www.pexels.com/terms-of-service/. 
 
@@ -74,28 +74,28 @@ Google Fonts was used to select a modern and stylish looking font for this websi
 
 * Navigation Menu 
     - This features on all pages of this website. The style is consistent across all pages to allow the user to intuitively navigate each section of the main landing page, and its content as well as intuitively navigate to other pages like the contact form.  The navigation menu has been styled with html and css only, on large screens the nav will display the page links and the logo inline at the top of the page and on small devices the nav will change in to a hambeurger drop down menu that is still usable, when hoverd over the links will change colour with a indicator line letting you know that the button is actionable.
-![Navigation Menu Desktop](assets/images/nav1.png)
+![Navigation Menu Desktop](assets/images/NAV-1.webp)
 
-![Closed Navigation Menu Mobile](assets/images/NAV_mobile-closed.png)
+![Closed Navigation Menu Mobile](assets/images/NAV-MOBILE-CLOSED.webp)
 
-![Open Navigation Menu Mobile](assets/images/NAV-mobile-open.png)
+![Open Navigation Menu Mobile](assets/images/NAV-MOBILE-OPEN.webp)
 
 * Footer 
     - Social networks Links to Facebook, Instagram and twitter with active transitions in color allow the user to know the link is active so they can stay connected to the companys activities and see regular posts.
     - Telephone number and email address in footer on every page.  This means that the user does not have to navigate to a different page to have access to this information if they decide they want to email or telephone. 
 
-![Footer](assets/images/Responcive-footer-A.png)
-![Footer](assets/images/Responcive-footer-B.png)   
+![Footer](assets/images/RESPONSIVE-FOOTER-A.webp)
+![Footer](assets/images/RESPONSIVE-FOOTER-B.webp)   
   
 
 * Home Page Features
     -The hero-image on landing page is quite eye catching with the contrast between the bright colours natural tones it becomes very striking. the about section leaves out enough information to entice the site user to make an enquiry.
     - There is also a contact button within the navbar which links directly to the contact form page.  This acts as a call to action to encourage the site user to submit their details to arrange a callback.  The contact button has a hover effect applied so the buttons background changes when it is hovered over to draw attention to itself. The same effect is used on all buttons across the site.
 
-![Hero Image and Overlay Text](assets/images/Hero-img.png)
-![Main Page and Overlay Text](assets/images/services-section.png)
-![Services Images and Overlay Text](assets/images/about.png)
-![Ifram Location Image with Overlay Text And Social Links](assets/images/iframe.png)   
+![Hero Image and Overlay Text](assets/images/HERO-IMAGE.webp)
+![Main Page and Overlay Text](assets/images/MAIN-PAGE.webp)
+![Services Images and Overlay Text](assets/images/SERVICE-SECTION.webp)
+![Ifram Location Image with Overlay Text And Social Links](assets/images/iframe.webp)   
 
 
 * Home Page Features Continued...
@@ -112,13 +112,13 @@ Google Fonts was used to select a modern and stylish looking font for this websi
     - Submit button - With background effect. This button currently links to a thank-you page where a thank you message that will be displayed to let the user know their information has been submitted and RMBT will be in contact in due course. 
     - Each field has a ```required``` attribute applied to ensure users input all fields before submitting.The contact form is responsive on desktop devices and on smaller devices the contact content is stacked. 
 
-![Contact Form Screenshot](assets/images/contact-form.png)
+![Contact Form Screenshot](assets/images/contact-form.webp)
 
 
 * Thank-you Page
     -Thank-you page will only appear when the contact form has been fully completed and submitted.  It will display a short message to thank the users for getting in contact and confirming that RMBT will be in contact in due course.
 
-![Thank You Page Screenshot](assets/images/thank-you.png)
+![Thank You Page Screenshot](assets/images/THANKYOU.webp)
 <br/>
 
 
@@ -160,8 +160,8 @@ I have also tested the site using the following browsers:-
 
 <details>
 
-![W3C CSS Validator Results (Jigsaw)](assets/testing/CSS-W3C-PASS.png)
-![W3C CSS Validator Warnings (Jigsaw)](assets/testing/W3C-CSS-WARNINGS.png)
+![W3C CSS Validator Results (Jigsaw)](assets/testing/CSS-W3C-PASS.webp)
+
 
 <summary>CSS (W3C Validator)</summary>
 
@@ -171,9 +171,9 @@ I have also tested the site using the following browsers:-
 
 <details>
 
-![W3C Validator Testing - Home Page](assets/testing/INDEX.HTML-W3C-PASS.png)
-![W3C Validator Testing - Contact](assets/testing/CONTACT.HTML-W3C-PASS.png)
-![W3C Validator Testing - Thank-you Page](assets/testing/THANKYOU.HTML-W3C-PASS.png)
+![W3C Validator Testing - Home Page](assets/testing/INDEX.HTML-W3C-PASS.webp)
+![W3C Validator Testing - Contact](assets/testing/CONTACT.HTML-W3C-PASS.webp)
+![W3C Validator Testing - Thank-you Page](assets/testing/THANKYOU.HTML-W3C-PASS.webp)
 
 
 <summary>HTML (W3C Validator)</summary>
@@ -184,9 +184,9 @@ I have also tested the site using the following browsers:-
 
 <details>
 
-![Lighthouse Testing - Home Page](assets/testing/index-lighthouse-scoure.png)
-![lighthouse Testing - Contact](assets/testing/contact.html-lighthouse-scoure.png)
-![lighthouse Testing - Thank-you age](assets/testing/THANKYOU-lighthouse-scoure.png)
+![Lighthouse Testing - Home Page](assets/testing/index-lighthouse-scoure.webp)
+![lighthouse Testing - Contact](assets/testing/CONTACT-LIGHTHOUSE.webp)
+![lighthouse Testing - Thank-you age](assets/testing/THANKYOU-LIGHTHOUSE.webp)
 
 <summary>Lighthouse Testing</summary>
 

@@ -85,10 +85,10 @@ nav a:hover {
 }
 
 
+
 .nav-toggle {
-    position: absolute !important;
-    top: -9999px !important;
-    left: -9999px !important;
+    position: absolute;
+    opacity: 0;
 }
 
 
@@ -142,11 +142,13 @@ nav a:hover {
     font-size: 1.5em;
     padding-bottom: 2rem;
     padding: 16px;
+    text-align: center;
 }
 
 .logo h1 {
     padding-top: 5em;
 }
+
 /* ----------------------------- */
 
 
@@ -171,7 +173,7 @@ header {
     font-size: 2em;
     padding-bottom: 1em;
 }
- 
+
 
 
 .hero {
@@ -188,6 +190,7 @@ header .content-wrap {
     padding-bottom: 3em;
     padding-left: 1.5em;
     padding-right: 1.5em;
+    padding-top: 8em;
 }
 
 /* --------------------------------- */
@@ -217,7 +220,7 @@ header .content-wrap {
 /* Services 1 */
 .section-services {
     padding: 2em 1em 1em;
-    background: #4244b9;
+    background: #faf8f6;
 }
 
 .section-services ul {
@@ -271,8 +274,12 @@ header .content-wrap {
 /* Services Section */
 
 .card-call-center {
+    background: #faf8f6;
     padding: 0.5em;
     text-align: center;
+    box-shadow: 12px 9px 11px #888888;
+    border-radius: 15px;
+
 }
 
 .card-call-center img {
@@ -286,6 +293,9 @@ header .content-wrap {
 .card-functional {
     padding: 0.5em;
     text-align: center;
+    box-shadow: 12px 9px 11px #888888;
+    border-radius: 15px;
+    height: 582px;
 }
 
 .card-functional img {
@@ -299,6 +309,8 @@ header .content-wrap {
 .card-non-functional {
     padding: 0.5em;
     text-align: center;
+    box-shadow: 12px 9px 11px #888888;
+    border-radius: 15px;
 }
 
 .card-non-functional img {
@@ -576,7 +588,8 @@ h2 {
     }
 
     .box,
-    .section-main footer, div {
+    .section-main footer,
+    div {
         grid-column: span 2;
     }
 
