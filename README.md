@@ -107,7 +107,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
     - The second information box provides brief contact information.
     - The information boxes are styled with a darker colour so that text is allowed to stand out.
     - As a decorative feature for this section. These are displayed next to each other on larger screens, but stacked on top of each other when on smaller screens, like mobile phones.
-     - The iframe map feature is to show the companys location I felt adding this was important. 
+     - The iframe map feature is to show the companys location, I felt adding this was important. 
 
 
 * Contact Form
