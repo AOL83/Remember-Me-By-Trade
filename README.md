@@ -112,7 +112,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
 
 * Contact Form
     - Input fields to submit name, company name, phone, and email address.
-    - Text area to add information for a message to RBMT.
+    - Text area to add information for a message to RMBT.
     - Submit button - With background effect. This button currently links to a thank-you page where a thank you message that will be displayed to let the user know their information has been submitted and RMBT will be in contact in due course. 
     - Each field has a ```required``` attribute applied to ensure users input all fields before submitting.The contact form is responsive on desktop devices and on smaller devices the contact content is stacked. 
 
