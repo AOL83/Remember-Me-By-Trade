@@ -315,7 +315,7 @@ Live link found here:  [RMBT SUPPORT SOLUTIONS](https://aol83.github.io/Remember
 
 ### Acknowledgments
 
-* Firstly I would like to say, that this has been a brilliant, and unforgettable learning experience for me, as a person with multiple learning issues like dyslexia and others, I decided to take the chance at doing something I have found a massive love for, which has revived my thrust for learning so win, loose, or draw I can come away knowing I have learned key skills I definitely didn't know before.
+* Firstly I would like to say, that this has been a brilliant, and unforgettable learning experience for me, as a person with multiple learning issues like dyslexia and others, I decided to take the chance at doing something I have found a massive love for, which has revived my thurst for learning, so win loose or draw, I can come away knowing I have learned valuable skills I definitely didn't know before.
 I would like to take a minute to thank everyone that has been involved in my coding journey especially Scott Clarke
 Education Adviser who help me after taking the five-day coding challenge and encourage me to take the leap, and I'm glad I did so a big thanks to him.
 Also, I would like to thank the following people that have found the time to teach an old dog new tricks these people where very friendly, and made me feel right at home. 
