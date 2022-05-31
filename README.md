@@ -280,7 +280,7 @@ Live link found here:  [RMBT SUPPORT SOLUTIONS](https://aol83.github.io/Remember
 ## Credits
 ----
 
-* I used similarly structured code for my home page, nav bar and footer as taught in the 'Love Running Walkthrough Project' on the [Code Institute's](https://codeinstitute.net/) Full Stack Web Development course and then made my changes from there as I wanted to add a bit of my own artistic flare to it using the sources of infomation I had been kindly given. I did change some of the styling, but ultimately I was aiming for a simliar layout for my main page and navigation link response and the footer. As this was my first project this code helped me to get off to a good start.
+* I used similarly structured code for my home page, nav bar and footer as taught in the 'Love Running Walkthrough Project' on the [Code Institute's](https://codeinstitute.net/) Full Stack Web Development course and then made my changes from there, as I wanted to add a bit of my own artistic flare using the sources of infomation I had been kindly given. I did change some of the styling, but ultimately I was aiming for a similar layout for my main page and navigation link response and the footer. As this was my first project this code helped me to get off to a good start.
 
 * [CSS-Tricks](https://css-tricks.com/) has been an invaluable resource and I have read many articles relating to positioning, flexbox, and styling my contact form.
 
