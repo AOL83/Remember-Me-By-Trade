@@ -161,7 +161,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
         1. The navigation bar clearly highlights the "Contact Us" call to action link in the nav when hoverd over.
         2. Here they can fill out the form on the page to reach us.
         3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+        4. Whichever link they click, a new page will be opened up in a new tab to ensure the user can easily get back to the website.
 
     3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
         1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
