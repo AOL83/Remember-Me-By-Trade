@@ -184,9 +184,11 @@ I have tested all aspects of the site functionality including all links, inputs 
 
 ### Known Bugs
 
--   On some mobile devices the nav toggle button pushes towards the the bottm of the navigation bar.t.
+-   On some mobile devices the nav toggle button pushes towards the the bottm of the navigation bar.
 -   On Microsoft Edge and Internet Explorer Browsers, the all pages have a slight bounce in the x&y axis.
 
+
+I tested the sites style consistency on the below devices:
 
 * iPhone 5/SE
 * iPhone 6/7/8
