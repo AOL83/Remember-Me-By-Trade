@@ -147,7 +147,7 @@ Google Fonts was used to select a modern and stylish looking font for this websi
     3. As a First Time Visitor, I want to look at the company's skills and hear what clients think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
         1. Once the new visitor has read the About Us and What We Do, they will notice We are trusted.
         2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights them hoverd over.
+        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights when hoverd over.
 
 -   #### Returning Visitor Goals
 
